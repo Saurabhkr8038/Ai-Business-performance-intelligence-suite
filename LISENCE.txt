@@ -1,0 +1,17 @@
+Copyright (c) 2025 Saurabh Kumar
+
+All rights reserved.
+
+This project, including all code, data, visualizations, and AI models, is the intellectual property of the author and may not be copied, reproduced, distributed, or used in any form without explicit written permission.
+
+Unauthorized use, duplication, or distribution is strictly prohibited.
+
+You are permitted to:
+- Review the project
+- Suggest improvements
+- Provide feedback
+
+If you wish to use or reference any part of this project for personal, academic, or commercial purposes, please contact the author to request permission.
+
+Contact: [saurabhkr8038@gmail.com]
+
