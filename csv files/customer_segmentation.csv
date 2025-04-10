@@ -1,0 +1,794 @@
+customer_id,total_sales,total_profit,order_count,days_since_last_order,avg_order_value,segment,PC1,PC2,segment_strategy
+AA-10315,5563.56,-362.8825,5,184,1112.712,Low Value,0.8896714751447213,0.9649075990321548,Use low-cost retention strategies and remarketing.
+AA-10375,1056.39,277.3824,9,19,117.37666666666668,High Value,-0.4734869801573431,-1.4674946957345782,"Offer loyalty rewards, early access, and exclusive services."
+AA-10480,1790.5120000000002,435.8274,4,259,447.628,High Value,-0.6164861618273393,0.9450539588047316,"Offer loyalty rewards, early access, and exclusive services."
+AA-10645,5086.935,857.8033,6,55,847.8224999999999,Low Value,1.294460436869569,0.2037650359513173,Use low-cost retention strategies and remarketing.
+AB-10015,886.156,129.3465,3,415,295.38533333333334,Medium Value,-1.4306061596320885,1.5561219240474236,Upsell and cross-sell through bundles and promos.
+AB-10060,7755.62,2054.5885,8,54,969.4525,Low Value,2.9221264490323744,0.0657018850739717,Use low-cost retention strategies and remarketing.
+AB-10105,14473.570999999998,5444.8055,10,41,1447.3570999999995,At Risk,7.069543988570066,0.6236690832983826,"Send re-engagement emails, discounts, and check-in calls."
+AB-10150,966.71,313.6597,5,41,193.342,High Value,-0.8777192407872868,-0.3444004433380832,"Offer loyalty rewards, early access, and exclusive services."
+AB-10165,1113.838,220.813,8,25,139.22975,High Value,-0.5853300775431775,-1.1905396026138482,"Offer loyalty rewards, early access, and exclusive services."
+AB-10255,914.532,264.5675,9,166,101.61466666666666,High Value,-0.6626964530936204,-0.9531992225558864,"Offer loyalty rewards, early access, and exclusive services."
+AB-10600,1515.862,-274.9604,4,50,378.9655,High Value,-0.93985032686674,0.0130082762080668,"Offer loyalty rewards, early access, and exclusive services."
+AC-10420,925.8,-62.1342,3,232,308.6,High Value,-1.3398897511941663,0.875224910665151,"Offer loyalty rewards, early access, and exclusive services."
+AC-10450,5527.846,1366.0098,7,11,789.6922857142856,Low Value,1.7409773964187316,-0.1600548128659975,Use low-cost retention strategies and remarketing.
+AC-10615,2537.686,298.8273,5,6,507.5371999999999,High Value,-0.0911967550441145,-0.1679838823636843,"Offer loyalty rewards, early access, and exclusive services."
+AC-10660,657.316,-28.700399999999995,5,282,131.4632,High Value,-1.4121458125805235,0.4170526913205953,"Offer loyalty rewards, early access, and exclusive services."
+AD-10180,6106.88,1869.9294,8,29,763.36,Low Value,2.203004185979102,-0.2692476460461775,Use low-cost retention strategies and remarketing.
+AF-10870,2052.908,317.9712,7,41,293.27257142857144,High Value,-0.2549333753249487,-0.7196360519614146,"Offer loyalty rewards, early access, and exclusive services."
+AF-10885,861.565,-163.1175,4,415,215.39125,Medium Value,-1.563224319485243,1.1989933032734983,Upsell and cross-sell through bundles and promos.
+AG-10270,2582.898,732.7399,5,278,516.5796,High Value,-0.0907600687127977,0.8938586881907591,"Offer loyalty rewards, early access, and exclusive services."
+AG-10300,367.548,59.2884,4,118,91.887,High Value,-1.460503673611977,0.0388072711276313,"Offer loyalty rewards, early access, and exclusive services."
+AG-10330,660.972,-5.137100000000006,5,8,132.1944,High Value,-1.1573094870523764,-0.5724290528024574,"Offer loyalty rewards, early access, and exclusive services."
+AG-10390,200.945,69.2784,5,114,40.189,High Value,-1.4367290106221753,-0.2660594735377324,"Offer loyalty rewards, early access, and exclusive services."
+AG-10495,2356.855,295.6668,8,78,294.606875,High Value,-0.1055645243184449,-0.824008283123154,"Offer loyalty rewards, early access, and exclusive services."
+AG-10525,1455.038,-152.7613,4,845,363.7595,Medium Value,-1.6116793020286404,2.9008071303226264,Upsell and cross-sell through bundles and promos.
+AG-10675,3489.0396000000005,-246.42570000000003,7,97,498.4342285714287,High Value,0.0087018539269035,-0.3931585748133823,"Offer loyalty rewards, early access, and exclusive services."
+AG-10765,170.584,-8.431000000000001,4,77,42.646,High Value,-1.5662527297726172,-0.1669437850093702,"Offer loyalty rewards, early access, and exclusive services."
+AG-10900,4510.797,343.6824,10,96,451.0797,Low Value,0.8483255730266429,-1.0525808208769647,Use low-cost retention strategies and remarketing.
+AH-10030,1744.7,365.2152,7,12,249.2428571428572,High Value,-0.3336692403808837,-0.8626170563588439,"Offer loyalty rewards, early access, and exclusive services."
+AH-10075,3250.337,281.189,10,34,325.0337,Low Value,0.4147069914112373,-1.4254423024087528,Use low-cost retention strategies and remarketing.
+AH-10120,1735.514,-2.3145999999999773,7,60,247.93057142857143,High Value,-0.5643388636148337,-0.7461857397828587,"Offer loyalty rewards, early access, and exclusive services."
+AH-10195,1587.452,-378.5509,4,55,396.863,High Value,-0.9570884434871808,0.0322295853943465,"Offer loyalty rewards, early access, and exclusive services."
+AH-10210,4805.344,1308.5546,9,6,533.9271111111111,Low Value,1.4659568910083731,-0.909654004235946,Use low-cost retention strategies and remarketing.
+AH-10465,2495.3916,-196.1201,5,230,499.07832,High Value,-0.557542263501349,0.5603906536628055,"Offer loyalty rewards, early access, and exclusive services."
+AH-10585,738.504,83.96300000000001,4,21,184.626,High Value,-1.1596258988225925,-0.2213446262208427,"Offer loyalty rewards, early access, and exclusive services."
+AH-10690,7888.294,1298.0166,12,410,657.3578333333334,Low Value,2.350767230156165,0.0042127276052189,Use low-cost retention strategies and remarketing.
+AI-10855,4375.786,867.7271000000001,10,13,437.5786,Low Value,1.1356747847829605,-1.2881398847665486,Use low-cost retention strategies and remarketing.
+AJ-10780,4867.344,150.71300000000005,7,75,695.3348571428571,Low Value,0.7999349223313582,-0.2106849462530627,Use low-cost retention strategies and remarketing.
+AJ-10795,4501.391,1158.7064,7,166,643.0558571428571,Low Value,1.0741200357196343,0.2203721119442304,Use low-cost retention strategies and remarketing.
+AJ-10945,1839.24,521.1351999999999,7,85,262.74857142857144,High Value,-0.2803630148264434,-0.5601350945105039,"Offer loyalty rewards, early access, and exclusive services."
+AJ-10960,629.2479999999999,60.4265,3,74,209.7493333333333,High Value,-1.332072234905911,0.2297355368332862,"Offer loyalty rewards, early access, and exclusive services."
+AM-10360,814.012,194.9878,5,28,162.80239999999998,High Value,-1.000057260191334,-0.4394456233934034,"Offer loyalty rewards, early access, and exclusive services."
+AM-10705,5664.022,1085.7326,8,162,708.00275,Low Value,1.517882044640131,0.0349574505319508,Use low-cost retention strategies and remarketing.
+AO-10810,161.28,12.096,1,501,161.28,Medium Value,-2.141616247684739,2.206069734193719,Upsell and cross-sell through bundles and promos.
+AP-10720,1638.554,285.7888,8,41,204.81925,High Value,-0.3604311776723493,-1.053815092553602,"Offer loyalty rewards, early access, and exclusive services."
+AP-10915,3323.556,579.3113,10,98,332.3556,Low Value,0.5346338761125157,-1.139586001248907,Use low-cost retention strategies and remarketing.
+AR-10345,1055.694,-221.0544,4,111,263.9235,High Value,-1.2184071141308983,0.1334933939309764,"Offer loyalty rewards, early access, and exclusive services."
+AR-10405,2236.128,-98.7646,5,125,447.2256,High Value,-0.5421506459852468,0.1440328592854154,"Offer loyalty rewards, early access, and exclusive services."
+AR-10510,264.86400000000003,43.6695,5,14,52.97280000000001,High Value,-1.3305019667964697,-0.6202506926308001,"Offer loyalty rewards, early access, and exclusive services."
+AR-10540,6608.448,2884.6208,6,6,1101.408,Low Value,3.03215484393142,0.5896810442080734,Use low-cost retention strategies and remarketing.
+AR-10570,88.15,32.633,1,534,88.15,Medium Value,-2.2680545447047065,2.2651032204056256,Upsell and cross-sell through bundles and promos.
+AR-10825,4523.336,494.83519999999993,8,58,565.417,Low Value,0.8640696830520247,-0.5822301966102558,Use low-cost retention strategies and remarketing.
+AS-10045,3050.692,-253.5746,7,88,435.8131428571429,High Value,-0.1690069486816263,-0.4909516511199978,"Offer loyalty rewards, early access, and exclusive services."
+AS-10090,3255.31,64.53739999999998,9,28,361.7011111111111,High Value,0.2387571567492989,-1.2053050712993034,"Offer loyalty rewards, early access, and exclusive services."
+AS-10135,58.82,21.8496,2,41,29.41,High Value,-1.800077870141249,0.1809123787109469,"Offer loyalty rewards, early access, and exclusive services."
+AS-10225,4260.784,719.7751000000001,5,22,852.1568,Low Value,0.9432008276134016,0.2897890400010794,Use low-cost retention strategies and remarketing.
+AS-10240,584.6080000000001,33.715799999999994,7,192,83.51542857142859,High Value,-1.1404133538651666,-0.4300753835506624,"Offer loyalty rewards, early access, and exclusive services."
+AS-10285,3214.236,354.62760000000003,6,19,535.706,High Value,0.2407066053461169,-0.315355400317588,"Offer loyalty rewards, early access, and exclusive services."
+AS-10630,833.398,136.49190000000002,7,92,119.05685714285714,High Value,-0.8974342140981869,-0.7406724258481957,"Offer loyalty rewards, early access, and exclusive services."
+AT-10435,1171.814,100.87680000000002,6,21,195.3023333333333,High Value,-0.7966948298783255,-0.6866505332678241,"Offer loyalty rewards, early access, and exclusive services."
+AT-10735,3831.864,974.107,10,13,383.1864,Low Value,0.9919778476160744,-1.3315645135539769,Use low-cost retention strategies and remarketing.
+AW-10840,649.376,65.77250000000001,4,20,162.344,High Value,-1.216676840745687,-0.2488757646100902,"Offer loyalty rewards, early access, and exclusive services."
+AW-10930,2852.968,-104.5486,7,46,407.5668571428572,High Value,-0.1392936016582338,-0.6493413249256416,"Offer loyalty rewards, early access, and exclusive services."
+AY-10555,497.014,103.3499,4,14,124.2535,High Value,-1.2759344871093492,-0.3009772322645502,"Offer loyalty rewards, early access, and exclusive services."
+AZ-10750,1622.0179999999998,154.9503,6,160,270.3363333333333,High Value,-0.6917197476233712,-0.0993372016992999,"Offer loyalty rewards, early access, and exclusive services."
+BB-10990,744.3399999999999,11.583900000000009,5,105,148.868,High Value,-1.1938094111434152,-0.2018260850035901,"Offer loyalty rewards, early access, and exclusive services."
+BB-11545,6765.728,1015.075,9,28,751.7475555555556,Low Value,2.036536665117509,-0.641109510638008,Use low-cost retention strategies and remarketing.
+BC-11125,2933.676,251.5974,9,202,325.964,High Value,0.0585484256175478,-0.5838831142738463,"Offer loyalty rewards, early access, and exclusive services."
+BD-11320,5718.521,1094.5037,12,33,476.5434166666666,Low Value,1.8387021996546176,-1.601976494702591,Use low-cost retention strategies and remarketing.
+BD-11500,4411.243,1142.1225,6,35,735.2071666666666,Low Value,1.1544150906169193,0.0624260686107666,Use low-cost retention strategies and remarketing.
+BD-11560,320.54,116.714,2,278,160.27,Medium Value,-1.737078823821413,1.1725091428671908,Upsell and cross-sell through bundles and promos.
+BD-11605,3288.471,634.8463,7,97,469.78157142857145,High Value,0.3680371752321948,-0.2874133199689869,"Offer loyalty rewards, early access, and exclusive services."
+BD-11620,1538.11,206.7569,6,69,256.35166666666663,High Value,-0.6228951236838532,-0.4354111339620745,"Offer loyalty rewards, early access, and exclusive services."
+BD-11635,582.646,141.53400000000002,3,9,194.2153333333333,High Value,-1.26441420852008,-0.0079233539638563,"Offer loyalty rewards, early access, and exclusive services."
+BD-11725,1526.5,333.9791,6,93,254.41666666666663,High Value,-0.5852880008427224,-0.3307967644802036,"Offer loyalty rewards, early access, and exclusive services."
+BD-11770,658.466,141.265,6,327,109.74433333333332,High Value,-1.2740743050506127,0.3440360326874481,"Offer loyalty rewards, early access, and exclusive services."
+BE-11335,4204.676,1487.7739,5,119,840.9352000000001,Low Value,1.2162837682398824,0.7483890420935091,Use low-cost retention strategies and remarketing.
+BE-11410,2261.438,755.9150999999999,5,98,452.2876,High Value,-0.0768117413632898,0.1820058177904404,"Offer loyalty rewards, early access, and exclusive services."
+BE-11455,1727.652,139.20080000000002,6,254,287.942,High Value,-0.7354146410792151,0.2567566099061667,"Offer loyalty rewards, early access, and exclusive services."
+BF-10975,599.798,227.4384,7,91,85.68542857142857,High Value,-0.9478867299304022,-0.7644972376730668,"Offer loyalty rewards, early access, and exclusive services."
+BF-11005,1333.88,-291.38109999999995,4,39,333.47,High Value,-1.0380433214680973,-0.0725210859195124,"Offer loyalty rewards, early access, and exclusive services."
+BF-11020,2888.506,302.02,8,74,361.06325,High Value,0.1102254134858074,-0.7678996028041126,"Offer loyalty rewards, early access, and exclusive services."
+BF-11080,272.95,110.9272,3,25,90.98333333333332,High Value,-1.4952610595630047,-0.0498259089727451,"Offer loyalty rewards, early access, and exclusive services."
+BF-11170,5907.972,1538.2127,11,16,537.0883636363636,Low Value,2.0776675590166933,-1.295678625859125,Use low-cost retention strategies and remarketing.
+BF-11215,1585.162,523.2133,4,65,396.2905,High Value,-0.5142239612818853,0.2061513508193557,"Offer loyalty rewards, early access, and exclusive services."
+BF-11275,791.9899999999999,25.8702,3,57,263.9966666666666,High Value,-1.2286347064660457,0.2128304209275693,"Offer loyalty rewards, early access, and exclusive services."
+BG-11035,2798.948,-711.4274,8,28,349.8685,High Value,-0.3935128198171879,-1.1017835823539688,"Offer loyalty rewards, early access, and exclusive services."
+BG-11695,1874.172,107.5715,6,36,312.362,High Value,-0.4942248855175098,-0.5144145522012681,"Offer loyalty rewards, early access, and exclusive services."
+BG-11740,1006.356,119.3479,6,57,167.726,High Value,-0.8926845274248708,-0.5807633346373887,"Offer loyalty rewards, early access, and exclusive services."
+BH-11710,6255.351,802.7898,8,23,781.918875,Low Value,1.7306904586790173,-0.4350985970988925,Use low-cost retention strategies and remarketing.
+BK-11260,659.1379999999999,-63.7644,6,77,109.85633333333332,High Value,-1.1566578899529432,-0.5940282136902924,"Offer loyalty rewards, early access, and exclusive services."
+BM-11140,11789.63,-1659.9580999999998,4,307,2947.4075,At Risk,3.762841057718144,3.166993013909102,"Send re-engagement emails, discounts, and check-in calls."
+BM-11575,808.162,95.5816,6,100,134.69366666666667,High Value,-1.0306076797239982,-0.4614039193827102,"Offer loyalty rewards, early access, and exclusive services."
+BM-11650,7294.185,2199.2781,11,33,663.1077272727273,Low Value,2.8815720386134225,-0.9911733320697272,Use low-cost retention strategies and remarketing.
+BM-11785,1338.842,137.7439,10,218,133.88420000000002,High Value,-0.5120924336748233,-0.9899511770701004,"Offer loyalty rewards, early access, and exclusive services."
+BN-11470,265.296,36.6131,4,24,66.324,High Value,-1.445116407243776,-0.32983358923134,"Offer loyalty rewards, early access, and exclusive services."
+BN-11515,1459.344,340.7054,5,9,291.8688,High Value,-0.5966480071509013,-0.3604778645437002,"Offer loyalty rewards, early access, and exclusive services."
+BO-11350,2682.728,278.77700000000004,5,137,536.5456,High Value,-0.1461381918433884,0.3323014432972996,"Offer loyalty rewards, early access, and exclusive services."
+BO-11425,130.83,59.4522,2,75,65.415,High Value,-1.7494919860808138,0.3423103192330434,"Offer loyalty rewards, early access, and exclusive services."
+BP-11050,983.42,209.783,5,83,196.684,High Value,-0.958751231976432,-0.2047335200850092,"Offer loyalty rewards, early access, and exclusive services."
+BP-11095,2442.044,433.9751,12,17,203.50366666666665,Low Value,0.4009416508990978,-2.074742241855027,Use low-cost retention strategies and remarketing.
+BP-11155,1697.861,647.3847000000001,6,89,282.97683333333333,High Value,-0.3481566469766732,-0.2687779261051822,"Offer loyalty rewards, early access, and exclusive services."
+BP-11185,3675.861,363.5991,9,1,408.429,Low Value,0.5709151921197391,-1.2072639994054186,Use low-cost retention strategies and remarketing.
+BP-11230,1181.49,-197.2695,5,39,236.298,High Value,-1.0282416705772195,-0.3881679475042345,"Offer loyalty rewards, early access, and exclusive services."
+BP-11290,2475.157,-319.0637,7,12,353.5938571428572,High Value,-0.374004707130686,-0.8607425158846134,"Offer loyalty rewards, early access, and exclusive services."
+BS-11365,10501.653,2616.0644,5,558,2100.3306,At Risk,4.455478440965757,3.7386455857247927,"Send re-engagement emails, discounts, and check-in calls."
+BS-11380,3887.834,-17.532200000000024,5,28,777.5668,High Value,0.3864229253047809,0.1260019675361197,"Offer loyalty rewards, early access, and exclusive services."
+BS-11590,2454.928,381.7807,6,35,409.1546666666666,High Value,-0.097378394157935,-0.3794375598453353,"Offer loyalty rewards, early access, and exclusive services."
+BS-11665,3288.11,238.7368,3,582,1096.0366666666666,Medium Value,0.0392467327186877,2.917299747792508,Upsell and cross-sell through bundles and promos.
+BS-11755,2562.382,-113.29840000000004,7,1,366.0545714285714,High Value,-0.2247486314536669,-0.856360608845504,"Offer loyalty rewards, early access, and exclusive services."
+BS-11800,949.43,194.0516,2,265,474.715,Medium Value,-1.1485298238859092,1.4194429384609637,Upsell and cross-sell through bundles and promos.
+BT-11305,2567.656,417.5918,5,336,513.5312,Medium Value,-0.307513687520787,1.0529646181050691,Upsell and cross-sell through bundles and promos.
+BT-11395,2186.6130000000003,257.9163,6,302,364.4355000000001,High Value,-0.513963422972336,0.5253735435117455,"Offer loyalty rewards, early access, and exclusive services."
+BT-11440,603.876,-77.5256,4,560,150.969,Medium Value,-1.7889675466721142,1.676975974635167,Upsell and cross-sell through bundles and promos.
+BT-11485,415.196,126.8694,2,659,207.598,Medium Value,-1.9863895601127988,2.598440591026895,Upsell and cross-sell through bundles and promos.
+BT-11530,2684.492,409.4983,5,91,536.8983999999999,High Value,-0.0391272181100791,0.1858344689444991,"Offer loyalty rewards, early access, and exclusive services."
+BT-11680,3196.752,447.7484,7,20,456.6788571428571,High Value,0.3037645428905008,-0.6087691161447795,"Offer loyalty rewards, early access, and exclusive services."
+BV-11245,1523.273,315.2214,5,334,304.6546,Medium Value,-0.8645167598474441,0.8268364118846916,Upsell and cross-sell through bundles and promos.
+BW-11065,385.516,-58.28659999999999,3,212,128.50533333333334,High Value,-1.6716836022285555,0.6371142023084463,"Offer loyalty rewards, early access, and exclusive services."
+BW-11110,4750.358,921.2574,8,121,593.79475,Low Value,1.1120600215576188,-0.2586406536427232,Use low-cost retention strategies and remarketing.
+BW-11200,1738.406,246.9973,6,203,289.7343333333333,High Value,-0.6315910167873501,0.0900865724108006,"Offer loyalty rewards, early access, and exclusive services."
+CA-11965,3789.7228,1143.3817,6,96,631.6204666666666,Low Value,0.8249765196587525,0.1805063149504809,Use low-cost retention strategies and remarketing.
+CA-12055,1679.7240000000002,211.2559,5,401,335.94480000000004,Medium Value,-0.8997186848727521,1.0843520695591549,Upsell and cross-sell through bundles and promos.
+CA-12265,2648.2872,279.6183,9,56,294.25413333333336,High Value,0.0938161656213832,-1.143159453200819,"Offer loyalty rewards, early access, and exclusive services."
+CA-12310,1421.954,246.0218,4,13,355.4885,High Value,-0.6970182926170823,-0.0636006908132879,"Offer loyalty rewards, early access, and exclusive services."
+CA-12775,3041.566,204.4895,7,120,434.5094285714285,High Value,0.0290990707049552,-0.3060228156099641,"Offer loyalty rewards, early access, and exclusive services."
+CB-12025,6076.139,150.2089,10,47,607.6139000000001,Low Value,1.361599295385011,-1.0880667631953729,Use low-cost retention strategies and remarketing.
+CB-12415,1949.2,272.3883,8,26,243.65,High Value,-0.2317911212488984,-1.069581235963148,"Offer loyalty rewards, early access, and exclusive services."
+CB-12535,4246.4555,1049.5601,8,197,530.8069375,Low Value,0.9114273607381996,-0.0293330223048235,Use low-cost retention strategies and remarketing.
+CC-12100,1770.945,208.5912,6,457,295.1575,Medium Value,-0.8600296779794029,1.010875869256143,Upsell and cross-sell through bundles and promos.
+CC-12145,2471.65,392.2825,7,106,353.0928571428572,High Value,-0.1009349908752868,-0.4113020953498166,"Offer loyalty rewards, early access, and exclusive services."
+CC-12220,3913.418,393.9618,12,20,326.1181666666667,Low Value,0.881203542976234,-1.9292053600331187,Use low-cost retention strategies and remarketing.
+CC-12370,12129.072000000002,2177.0493,5,43,2425.8144,At Risk,5.478953781451534,2.1200671742865342,"Send re-engagement emails, discounts, and check-in calls."
+CC-12430,2870.05,424.6583,10,0,287.005,Low Value,0.3788761206578296,-1.5685332896033033,Use low-cost retention strategies and remarketing.
+CC-12475,1659.438,154.851,9,39,184.382,High Value,-0.3258153572289883,-1.3418340628703798,"Offer loyalty rewards, early access, and exclusive services."
+CC-12550,113.832,33.8706,3,27,37.944,High Value,-1.6391951550545345,-0.1033161138910348,"Offer loyalty rewards, early access, and exclusive services."
+CC-12610,2540.631,331.434,7,34,362.94728571428567,High Value,-0.0394620488295397,-0.671692665944981,"Offer loyalty rewards, early access, and exclusive services."
+CC-12670,2269.7015,187.8399,7,29,324.24307142857145,High Value,-0.2196964855746279,-0.7514234230417969,"Offer loyalty rewards, early access, and exclusive services."
+CC-12685,2854.115,850.1591,4,799,713.5287500000001,Medium Value,-0.3014996474316704,3.219133374795219,Upsell and cross-sell through bundles and promos.
+CD-11920,2033.968,426.661,5,40,406.7936,High Value,-0.3016231523443988,-0.1230737726779474,"Offer loyalty rewards, early access, and exclusive services."
+CD-11980,639.766,-206.7172,3,54,213.2553333333333,High Value,-1.4418011081634328,0.1194904217224765,"Offer loyalty rewards, early access, and exclusive services."
+CD-12280,1205.584,233.0274,2,42,602.792,High Value,-0.7133885442191795,0.7315467599850374,"Offer loyalty rewards, early access, and exclusive services."
+CD-12790,1860.732,403.8422,5,399,372.1464,Medium Value,-0.7132978796636915,1.1418269420366405,Upsell and cross-sell through bundles and promos.
+CG-12040,904.468,86.5106,6,49,150.7446666666667,High Value,-0.947440296026756,-0.6317561276525911,"Offer loyalty rewards, early access, and exclusive services."
+CG-12520,1148.7800000000002,169.93439999999998,3,338,382.92666666666673,Medium Value,-1.1716525491463947,1.3638291112817538,Upsell and cross-sell through bundles and promos.
+CH-12070,1537.236,195.1511,3,691,512.412,Medium Value,-1.2171590144776976,2.767498801342328,Upsell and cross-sell through bundles and promos.
+CJ-11875,16.52,1.652,1,365,16.52,Medium Value,-2.2403216353718416,1.5848919148174032,Upsell and cross-sell through bundles and promos.
+CJ-12010,11164.974,858.7414,8,189,1395.62175,Low Value,3.5434106400959138,0.8186932804779716,Use low-cost retention strategies and remarketing.
+CK-12205,3154.855,141.2831,13,39,242.68115384615385,Low Value,0.5721364472674345,-2.232638536807828,Use low-cost retention strategies and remarketing.
+CK-12325,2945.321,261.22090000000003,5,120,589.0642,High Value,-0.0124253115621633,0.3190394216364748,"Offer loyalty rewards, early access, and exclusive services."
+CK-12595,2372.75,497.7098,11,43,215.70454545454547,Low Value,0.2897095482034375,-1.7181666804792186,Use low-cost retention strategies and remarketing.
+CK-12760,1582.109,-338.4311,9,82,175.78988888888887,High Value,-0.6405142889965063,-1.2706863930907126,"Offer loyalty rewards, early access, and exclusive services."
+CL-11890,1262.014,328.0847,4,106,315.50350000000003,High Value,-0.8252393446739117,0.2483949733990018,"Offer loyalty rewards, early access, and exclusive services."
+CL-12565,10880.546,1933.7831,12,284,906.7121666666668,Low Value,3.8039408605431264,-0.0690493747191743,Use low-cost retention strategies and remarketing.
+CL-12700,2353.586,229.0099,5,105,470.71719999999993,High Value,-0.3028547297877671,0.1445750016341462,"Offer loyalty rewards, early access, and exclusive services."
+CM-11815,1673.888,214.463,6,131,278.98133333333334,High Value,-0.6132329075116507,-0.1867744359843055,"Offer loyalty rewards, early access, and exclusive services."
+CM-11935,565.392,-43.732400000000005,2,708,282.696,Medium Value,-1.9866640693804771,2.817425138723672,Upsell and cross-sell through bundles and promos.
+CM-12115,1661.61,409.0679,4,8,415.4025,High Value,-0.4795199591153495,3.073430679893811e-05,"Offer loyalty rewards, early access, and exclusive services."
+CM-12160,2533.314,-394.3686,6,26,422.219,High Value,-0.4444299358238736,-0.517988671629153,"Offer loyalty rewards, early access, and exclusive services."
+CM-12190,1475.144,91.2033,6,8,245.85733333333332,High Value,-0.6552285777459486,-0.6848393866835406,"Offer loyalty rewards, early access, and exclusive services."
+CM-12235,2305.712,365.0387,5,385,461.1424,Medium Value,-0.5042967926130298,1.1716734755780722,Upsell and cross-sell through bundles and promos.
+CM-12385,8954.019999999999,3899.8904,4,37,2238.505,At Risk,5.240634308181914,2.367915591882077,"Send re-engagement emails, discounts, and check-in calls."
+CM-12445,287.99,64.4296,3,436,95.99666666666668,Medium Value,-1.8706728891737625,1.4383799268654027,Upsell and cross-sell through bundles and promos.
+CM-12655,6339.5576,1572.4585,6,27,1056.5929333333331,Low Value,2.235051459699437,0.4200440260365415,Use low-cost retention strategies and remarketing.
+CM-12715,3984.4524,176.3108,4,1035,996.1131,Medium Value,-0.2288928015646926,4.239646899019633,Upsell and cross-sell through bundles and promos.
+CP-12085,5402.254,427.0258,8,82,675.28175,Low Value,1.1545262418449211,-0.3904402788599637,Use low-cost retention strategies and remarketing.
+CP-12340,5888.275,-1850.3029,8,160,736.034375,High Value,0.1331731711294416,-0.3928640879261401,"Offer loyalty rewards, early access, and exclusive services."
+CR-12580,2148.852,74.40129999999999,4,57,537.213,High Value,-0.4239986761926154,0.2419063298888168,"Offer loyalty rewards, early access, and exclusive services."
+CR-12625,475.9,144.7594,3,470,158.63333333333333,Medium Value,-1.7380658650906655,1.6317992851313965,Upsell and cross-sell through bundles and promos.
+CR-12730,1600.55,306.9176,4,78,400.1375,High Value,-0.6258816322427542,0.2238013931392488,"Offer loyalty rewards, early access, and exclusive services."
+CR-12820,1397.8724,83.27029999999999,3,85,465.9574666666667,High Value,-0.8304644242955157,0.509517679316676,"Offer loyalty rewards, early access, and exclusive services."
+CS-11845,1278.954,185.3776,5,91,255.7908,High Value,-0.8344858169209581,-0.121960920387635,"Offer loyalty rewards, early access, and exclusive services."
+CS-11860,537.632,105.8275,6,162,89.60533333333332,High Value,-1.2003403000760453,-0.2799485020776816,"Offer loyalty rewards, early access, and exclusive services."
+CS-11950,3036.547,-126.4223,11,25,276.0497272727273,Low Value,0.2252063732228054,-1.811323791564276,Use low-cost retention strategies and remarketing.
+CS-12130,884.64,143.8339,4,489,221.16,Medium Value,-1.4615698198215432,1.5198998041336091,Upsell and cross-sell through bundles and promos.
+CS-12175,844.4580000000001,113.1405,5,232,168.8916,High Value,-1.2059742345813944,0.293847217338755,"Offer loyalty rewards, early access, and exclusive services."
+CS-12250,2754.216,738.3626,12,26,229.518,Low Value,0.6526188477736283,-1.9655820402828827,Use low-cost retention strategies and remarketing.
+CS-12355,3202.1620000000003,831.9432,11,6,291.1056363636364,Low Value,0.7814489725248233,-1.7164590100938528,Use low-cost retention strategies and remarketing.
+CS-12400,3651.8585,-342.80330000000004,9,2,405.7620555555556,High Value,0.2062076426952075,-1.3147538333033408,"Offer loyalty rewards, early access, and exclusive services."
+CS-12460,550.644,156.2593,2,27,275.322,High Value,-1.2992966590660842,0.3714529026070861,"Offer loyalty rewards, early access, and exclusive services."
+CS-12490,1077.2285,-302.8761,4,424,269.307125,Medium Value,-1.5232738897957174,1.2613142751639017,Upsell and cross-sell through bundles and promos.
+CS-12505,5690.054999999999,-6626.389499999999,6,58,948.3425,High Value,-2.1990218810388757,-0.8319948775862277,"Offer loyalty rewards, early access, and exclusive services."
+CT-11995,3241.898,161.22629999999995,8,96,405.23725,High Value,0.1591167826127788,-0.6633892817679826,"Offer loyalty rewards, early access, and exclusive services."
+CV-12295,2830.628,493.0861,5,254,566.1256,High Value,-0.0696560108620368,0.8182797354163471,"Offer loyalty rewards, early access, and exclusive services."
+CV-12805,2370.3136,98.9975,9,5,263.36817777777776,High Value,-0.0565563951805942,-1.3889586645763123,"Offer loyalty rewards, early access, and exclusive services."
+CW-11905,1136.592,370.8298,6,22,189.432,High Value,-0.6776499882128498,-0.6475111400397252,"Offer loyalty rewards, early access, and exclusive services."
+CY-12745,2900.026,60.64670000000001,8,60,362.50325,High Value,0.005848483924345,-0.8541589797978282,"Offer loyalty rewards, early access, and exclusive services."
+Co-12640,1300.076,205.6282,5,549,260.0152,Medium Value,-1.2172699998520398,1.5464279074630094,Upsell and cross-sell through bundles and promos.
+DA-13450,156.76,56.7904,4,352,39.19,Medium Value,-1.7831684380375064,0.8372071716741771,Upsell and cross-sell through bundles and promos.
+DB-12910,2171.599,431.3748,8,21,271.449875,High Value,-0.0600755168145456,-1.0342189296394877,"Offer loyalty rewards, early access, and exclusive services."
+DB-12970,2839.2272,213.0029,5,241,567.8454399999999,High Value,-0.1947088312428924,0.7298790759091086,"Offer loyalty rewards, early access, and exclusive services."
+DB-13060,4531.646,473.0272,7,16,647.3779999999999,Low Value,0.8743516040540444,-0.4243395179025451,Use low-cost retention strategies and remarketing.
+DB-13120,2973.094,-1421.7692,7,48,424.7277142857143,High Value,-0.7527572327506276,-0.8263958632840989,"Offer loyalty rewards, early access, and exclusive services."
+DB-13210,2332.577,169.9679,10,9,233.25770000000003,High Value,0.0482410138993089,-1.6339400811508404,"Offer loyalty rewards, early access, and exclusive services."
+DB-13270,4655.897,841.8263999999999,8,53,581.987125,Low Value,1.0948831818814475,-0.5298246829890784,Use low-cost retention strategies and remarketing.
+DB-13360,1081.466,291.0085,5,264,216.2932,High Value,-1.0296749067648625,0.4832801550312575,"Offer loyalty rewards, early access, and exclusive services."
+DB-13405,1711.692,438.9092,4,187,427.923,High Value,-0.5947022140901316,0.6657063979503821,"Offer loyalty rewards, early access, and exclusive services."
+DB-13555,3908.8028,109.327,7,107,558.4004,High Value,0.3529028423519604,-0.2410311119729903,"Offer loyalty rewards, early access, and exclusive services."
+DB-13615,1989.05,438.8012,7,33,284.15,High Value,-0.2137215907552917,-0.7394665644611219,"Offer loyalty rewards, early access, and exclusive services."
+DB-13660,1155.202,177.67350000000002,7,12,165.0288571428571,High Value,-0.6726773213047627,-0.977498996108765,"Offer loyalty rewards, early access, and exclusive services."
+DC-12850,3336.168,-1441.6312999999998,9,37,370.68533333333335,High Value,-0.4952450270865612,-1.3938398740976374,"Offer loyalty rewards, early access, and exclusive services."
+DC-13285,1174.618,132.06820000000002,5,23,234.9236,High Value,-0.8520799796830296,-0.3970667181392915,"Offer loyalty rewards, early access, and exclusive services."
+DD-13570,269.542,36.4344,6,41,44.92366666666666,High Value,-1.2478772441599548,-0.7740369202850973,"Offer loyalty rewards, early access, and exclusive services."
+DE-13255,2550.874,464.4714,5,719,510.1748,Medium Value,-0.6293075463492235,2.446033370901742,Upsell and cross-sell through bundles and promos.
+DF-13135,2390.534,-259.3097,3,700,796.8446666666667,Medium Value,-0.8984612126819456,2.992921309956161,Upsell and cross-sell through bundles and promos.
+DG-13300,3195.818,562.7761,5,32,639.1636000000001,High Value,0.3381963218874732,0.094808894386549,"Offer loyalty rewards, early access, and exclusive services."
+DH-13075,4932.872,1193.7404,6,277,822.1453333333334,Low Value,1.1992373365188709,1.0348246011451705,Use low-cost retention strategies and remarketing.
+DH-13675,1043.096,116.667,4,776,260.774,Medium Value,-1.6411351172762765,2.5942336944919977,Upsell and cross-sell through bundles and promos.
+DJ-13420,2012.52,483.035,4,637,503.13,Medium Value,-0.8040181184157199,2.375901563846773,Upsell and cross-sell through bundles and promos.
+DJ-13510,2501.688,345.2521,8,48,312.711,High Value,0.0027089511962333,-0.9062477997057768,"Offer loyalty rewards, early access, and exclusive services."
+DJ-13630,3356.398,731.5644,3,12,1118.7993333333334,High Value,0.8330006061094362,0.9464236790975944,"Offer loyalty rewards, early access, and exclusive services."
+DK-12835,3256.48,881.1228000000001,12,21,271.37333333333333,Low Value,0.9004265228673348,-1.91378043293486,Use low-cost retention strategies and remarketing.
+DK-12895,4282.176,937.6496,5,45,856.4352000000001,Low Value,1.0427740448983984,0.4107613511374799,Use low-cost retention strategies and remarketing.
+DK-12985,1687.04,-107.35379999999998,5,7,337.408,High Value,-0.7093187978357725,-0.392097805276713,"Offer loyalty rewards, early access, and exclusive services."
+DK-13090,2650.557,536.3935,7,42,378.651,High Value,0.1020895116995558,-0.5952036022082736,"Offer loyalty rewards, early access, and exclusive services."
+DK-13150,797.832,249.9447,2,10,398.916,High Value,-1.0257099161238996,0.4350836934339983,"Offer loyalty rewards, early access, and exclusive services."
+DK-13225,4802.394,209.89940000000004,9,10,533.5993333333333,Low Value,0.9095128486906766,-1.0638649935085225,Use low-cost retention strategies and remarketing.
+DK-13375,3318.486,377.0799,8,19,414.81075,High Value,0.3654405276481467,-0.899558148545431,"Offer loyalty rewards, early access, and exclusive services."
+DL-12865,1503.112,322.2449,8,100,187.889,High Value,-0.4473273517240078,-0.8519760445370536,"Offer loyalty rewards, early access, and exclusive services."
+DL-12925,3272.2,4.213200000000029,6,57,545.3666666666667,High Value,0.0570265995084016,-0.2215894491448785,"Offer loyalty rewards, early access, and exclusive services."
+DL-13315,1458.258,288.8732,8,22,182.28225,High Value,-0.4130580215484986,-1.1458735474018318,"Offer loyalty rewards, early access, and exclusive services."
+DL-13330,585.02,222.6812,4,57,146.255,High Value,-1.2056747567495345,-0.1058773057652474,"Offer loyalty rewards, early access, and exclusive services."
+DL-13495,3539.322,-52.78799999999997,8,76,442.41525,High Value,0.1861983484800037,-0.7297663230762264,"Offer loyalty rewards, early access, and exclusive services."
+DM-12955,1322.034,108.7583,7,114,188.862,High Value,-0.7278062688151975,-0.5937252744849522,"Offer loyalty rewards, early access, and exclusive services."
+DM-13015,6345.103,1677.3931,7,57,906.4432857142856,Low Value,2.196274915647268,0.1739303831668524,Use low-cost retention strategies and remarketing.
+DM-13345,4074.472,1319.0586,8,22,509.309,Low Value,1.1332191896747752,-0.6452904557362243,Use low-cost retention strategies and remarketing.
+DM-13525,1376.792,199.7688,3,481,458.9306666666666,Medium Value,-1.1342919652977137,1.9571885742160515,Upsell and cross-sell through bundles and promos.
+DN-13690,2139.79,540.5405000000001,7,217,305.6842857142857,High Value,-0.2620116212659141,-0.0344759369324226,"Offer loyalty rewards, early access, and exclusive services."
+DO-13435,1300.0315,-38.90860000000001,9,133,144.44794444444446,High Value,-0.641071837094279,-1.0734373443849452,"Offer loyalty rewards, early access, and exclusive services."
+DO-13645,1267.316,294.0676,7,26,181.04514285714285,High Value,-0.5799824605282873,-0.8925005973189197,"Offer loyalty rewards, early access, and exclusive services."
+DP-13000,1050.636,241.4524,9,126,116.73733333333332,High Value,-0.5878986251491232,-1.085595565273704,"Offer loyalty rewards, early access, and exclusive services."
+DP-13105,2215.002,563.1761,8,6,276.87525,High Value,0.0363977480264101,-1.0627403602491623,"Offer loyalty rewards, early access, and exclusive services."
+DP-13165,1058.616,-40.93759999999999,2,812,529.308,Medium Value,-1.654675160865039,3.4164127684022505,Upsell and cross-sell through bundles and promos.
+DP-13390,5480.723999999999,1571.8318,9,358,608.9693333333332,Low Value,1.5423239056989722,0.4879263345606408,Use low-cost retention strategies and remarketing.
+DR-12880,6528.034000000001,1641.8613,9,3,725.3371111111112,Low Value,2.283954357462612,-0.6640698366492294,Use low-cost retention strategies and remarketing.
+DR-12940,8350.868,2869.076,8,50,1043.8585,Low Value,3.568821863389463,0.2539868442278954,Use low-cost retention strategies and remarketing.
+DS-13030,1762.213,193.3319,4,93,440.55325,High Value,-0.6076315180492229,0.2991015129988218,"Offer loyalty rewards, early access, and exclusive services."
+DS-13180,2881.8128,163.6993,9,23,320.2014222222222,High Value,0.152482238763027,-1.2527736895372543,"Offer loyalty rewards, early access, and exclusive services."
+DV-13045,1119.483,-427.184,5,19,223.8966,High Value,-1.1562334924128184,-0.5080060052554732,"Offer loyalty rewards, early access, and exclusive services."
+DV-13465,3341.587,353.2127,6,29,556.9311666666666,High Value,0.2878204969298112,-0.2581230748468558,"Offer loyalty rewards, early access, and exclusive services."
+DW-13195,1080.751,-86.87379999999999,6,69,180.12516666666667,High Value,-0.9737457292885012,-0.5564700951521969,"Offer loyalty rewards, early access, and exclusive services."
+DW-13480,5271.628,1348.7556,5,217,1054.3256,Low Value,1.578493238252908,1.2901097221508089,Use low-cost retention strategies and remarketing.
+DW-13540,344.08,69.6672,5,98,68.816,High Value,-1.3529145429592535,-0.2961851482840927,"Offer loyalty rewards, early access, and exclusive services."
+DW-13585,1204.854,-266.8966,7,242,172.122,High Value,-1.0778364712477024,-0.2041581611297197,"Offer loyalty rewards, early access, and exclusive services."
+Dl-13600,755.602,175.2388,5,119,151.1204,High Value,-1.1184662035055526,-0.1237768550594524,"Offer loyalty rewards, early access, and exclusive services."
+Dp-13240,7198.761,333.36479999999995,11,84,654.4328181818181,Low Value,1.865981546427868,-1.10188701434243,Use low-cost retention strategies and remarketing.
+EA-14035,2846.705,-52.74059999999998,13,152,218.97730769230768,Low Value,0.2722957663743294,-1.880330153120243,Use low-cost retention strategies and remarketing.
+EB-13705,3644.978,13.621500000000005,9,48,404.9975555555556,Low Value,0.3421407109787157,-1.0941095374786187,Use low-cost retention strategies and remarketing.
+EB-13750,3236.314,-80.28599999999999,10,35,323.6314,Low Value,0.2271891950418643,-1.4787506593486144,Use low-cost retention strategies and remarketing.
+EB-13840,4358.128,656.1988,5,90,871.6256,Low Value,0.8986911078668222,0.5456219659041969,Use low-cost retention strategies and remarketing.
+EB-13870,2767.219,261.5315,10,100,276.7219,Low Value,0.1716373747798288,-1.242121735174892,Use low-cost retention strategies and remarketing.
+EB-13930,944.6,0.6042000000000058,5,161,188.92,High Value,-1.1513420421028904,0.0385653690903444,"Offer loyalty rewards, early access, and exclusive services."
+EB-13975,1643.255,162.8781,4,0,410.81375,High Value,-0.606177519965537,-0.071062400284274,"Offer loyalty rewards, early access, and exclusive services."
+EB-14110,3071.126,184.7656,6,113,511.8543333333334,High Value,0.0089993688427741,-0.0242461467834209,"Offer loyalty rewards, early access, and exclusive services."
+EB-14170,1186.326,282.1701,6,82,197.721,High Value,-0.7528885546766886,-0.4352058406806084,"Offer loyalty rewards, early access, and exclusive services."
+EC-14050,461.914,96.4256,5,53,92.3828,High Value,-1.2426153561661142,-0.4323757026651803,"Offer loyalty rewards, early access, and exclusive services."
+ED-13885,3484.92,670.4435000000001,8,135,435.615,Low Value,0.476113313785216,-0.4120641469196215,Use low-cost retention strategies and remarketing.
+EG-13900,1832.02,104.2656,5,22,366.404,High Value,-0.5458068348215852,-0.277056053843499,"Offer loyalty rewards, early access, and exclusive services."
+EH-13765,10310.88,1393.5154,12,135,859.2400000000001,Low Value,3.4690175362157816,-0.7467791893782848,Use low-cost retention strategies and remarketing.
+EH-13945,684.1709999999999,53.53980000000001,8,217,85.52137499999999,High Value,-1.0073500204613566,-0.576069581317202,"Offer loyalty rewards, early access, and exclusive services."
+EH-13990,825.9499999999999,150.3759,6,405,137.65833333333333,Medium Value,-1.2636941498212326,0.6561931918962545,Upsell and cross-sell through bundles and promos.
+EH-14005,1219.53,-94.14079999999996,7,2,174.21857142857144,High Value,-0.7736806997695697,-1.0460243344426134,"Offer loyalty rewards, early access, and exclusive services."
+EH-14125,3082.653,96.2702,10,152,308.2653,Low Value,0.1571720849892483,-1.0442053463710412,Use low-cost retention strategies and remarketing.
+EH-14185,923.884,242.1107,6,105,153.98066666666668,High Value,-0.9099561891640164,-0.4015684394984435,"Offer loyalty rewards, early access, and exclusive services."
+EJ-13720,2162.174,387.0176,4,302,540.5435,Medium Value,-0.4753841279833151,1.1815910473282023,Upsell and cross-sell through bundles and promos.
+EJ-14155,2656.691,451.8755000000001,5,57,531.3381999999999,High Value,-0.0014150310672731,0.0636012426466108,"Offer loyalty rewards, early access, and exclusive services."
+EK-13795,1303.478,97.1066,4,44,325.8695,High Value,-0.8639667628694673,-0.0020537052193808,"Offer loyalty rewards, early access, and exclusive services."
+EL-13735,124.28,27.1154,2,77,62.14,High Value,-1.7731003811551511,0.3416692858458272,"Offer loyalty rewards, early access, and exclusive services."
+EM-13810,2567.01,-133.8275,5,132,513.4019999999999,High Value,-0.405186127594149,0.2284221883282628,"Offer loyalty rewards, early access, and exclusive services."
+EM-13825,2339.598,682.5541999999999,8,55,292.44975,High Value,0.1022167189955765,-0.8504004070628459,"Offer loyalty rewards, early access, and exclusive services."
+EM-13960,933.704,102.296,5,151,186.7408,High Value,-1.0967553834188468,0.015759442543009,"Offer loyalty rewards, early access, and exclusive services."
+EM-14065,228.99,40.15459999999999,4,47,57.2475,High Value,-1.4834629420605665,-0.2544710661869545,"Offer loyalty rewards, early access, and exclusive services."
+EM-14095,1041.042,240.2362,4,113,260.26050000000004,High Value,-0.9965006044166428,0.207968183129309,"Offer loyalty rewards, early access, and exclusive services."
+EM-14140,4588.436000000001,1319.3655,6,48,764.7393333333334,Low Value,1.3107838672486956,0.1662074390165262,Use low-cost retention strategies and remarketing.
+EM-14200,366.822,21.7721,3,158,122.274,High Value,-1.5960886578200273,0.447774704007325,"Offer loyalty rewards, early access, and exclusive services."
+EN-13780,2199.366,496.1131,4,287,549.8415,Medium Value,-0.3870223073305697,1.152716076965955,Upsell and cross-sell through bundles and promos.
+EP-13915,5478.0608,144.9578,17,12,322.23887058823533,Low Value,1.7266289572892546,-3.179966139271917,Use low-cost retention strategies and remarketing.
+ER-13855,1245.788,-295.7398,3,421,415.2626666666667,Medium Value,-1.4155329538189096,1.623342045100439,Upsell and cross-sell through bundles and promos.
+ES-14020,3510.458,1003.2935,5,40,702.0916,High Value,0.7052563010003662,0.2525473567786321,"Offer loyalty rewards, early access, and exclusive services."
+ES-14080,4657.924,246.6661,9,28,517.5471111111111,Low Value,0.857793488097155,-1.0101684795404329,Use low-cost retention strategies and remarketing.
+FA-14230,2984.054,520.5229,7,97,426.2934285714286,High Value,0.1841953370645673,-0.3494166928593185,"Offer loyalty rewards, early access, and exclusive services."
+FC-14245,3418.742,1217.1662,7,70,488.39171428571433,Low Value,0.7383851275283541,-0.2770671307463851,Use low-cost retention strategies and remarketing.
+FC-14335,3889.366,714.2926,7,184,555.6237142857143,Low Value,0.5808926480183989,0.1281194844687204,Use low-cost retention strategies and remarketing.
+FG-14260,1383.144,394.7397,7,34,197.592,High Value,-0.4883594694544,-0.8311309909654387,"Offer loyalty rewards, early access, and exclusive services."
+FH-14275,4256.272,1073.2676,10,37,425.6272,Low Value,1.174466658019688,-1.1827162004027685,Use low-cost retention strategies and remarketing.
+FH-14350,2271.284,706.289,4,212,567.821,High Value,-0.1760571092427511,0.9299375857365242,"Offer loyalty rewards, early access, and exclusive services."
+FH-14365,6987.196,2050.2826,8,5,873.3995,Low Value,2.66091165940119,-0.2133410913373081,Use low-cost retention strategies and remarketing.
+FM-14215,2456.638,249.6808,10,7,245.6638,High Value,0.1350005894408719,-1.6153552968106888,"Offer loyalty rewards, early access, and exclusive services."
+FM-14290,3736.198,198.1095,9,36,415.1331111111111,Low Value,0.4796769040242589,-1.098485638757837,Use low-cost retention strategies and remarketing.
+FM-14380,2523.266,191.4898,9,145,280.3628888888889,High Value,-0.0758254182481364,-0.8487656124071715,"Offer loyalty rewards, early access, and exclusive services."
+FO-14305,2678.438,215.5969,10,38,267.8438,High Value,0.1709740990116974,-1.483785419413107,"Offer loyalty rewards, early access, and exclusive services."
+FP-14320,4046.746,406.4473,8,23,505.84325,Low Value,0.663065138631519,-0.7851517761932117,Use low-cost retention strategies and remarketing.
+FW-14395,79.75,23.491300000000003,3,362,26.58333333333333,Medium Value,-1.9614997991737773,1.0996640506133344,Upsell and cross-sell through bundles and promos.
+GA-14515,3919.776,840.899,8,149,489.972,Low Value,0.720413040577007,-0.2782001960478505,Use low-cost retention strategies and remarketing.
+GA-14725,1398.382,136.70790000000002,11,5,127.12563636363636,High Value,-0.2003549046785064,-2.010803905009493,"Offer loyalty rewards, early access, and exclusive services."
+GB-14530,1568.44,7.837100000000003,11,62,142.58545454545455,High Value,-0.2555387762699221,-1.806449226546789,"Offer loyalty rewards, early access, and exclusive services."
+GB-14575,4716.288,1135.8393,5,13,943.2576,Low Value,1.381375241364902,0.4095259779595445,Use low-cost retention strategies and remarketing.
+GD-14590,1888.07,230.9373,4,5,472.0175,High Value,-0.4423669573610707,0.0155049215050122,"Offer loyalty rewards, early access, and exclusive services."
+GG-14650,2224.0,12.698500000000008,9,43,247.11111111111111,High Value,-0.1883881150718462,-1.2818011553447843,"Offer loyalty rewards, early access, and exclusive services."
+GH-14410,2819.467,-576.8335,9,75,313.2741111111111,High Value,-0.2886892480167554,-1.18508728197449,"Offer loyalty rewards, early access, and exclusive services."
+GH-14425,4172.8460000000005,1176.4181,4,50,1043.2115,Low Value,1.243741810103156,0.864929853725632,Use low-cost retention strategies and remarketing.
+GH-14485,1361.244,-95.4498,2,387,680.6220000000001,Medium Value,-1.048875107435033,2.002387811144453,Upsell and cross-sell through bundles and promos.
+GH-14665,146.94080000000002,-5.810200000000001,2,2,73.47040000000001,High Value,-1.704213693742627,0.0747665354802829,"Offer loyalty rewards, early access, and exclusive services."
+GK-14620,6497.27,1448.5525,9,112,721.9188888888889,Low Value,2.0793296097148164,-0.3020165408444523,Use low-cost retention strategies and remarketing.
+GM-14440,3582.82,347.266,7,83,511.83142857142855,High Value,0.3581622299153731,-0.3392506388511171,"Offer loyalty rewards, early access, and exclusive services."
+GM-14455,3078.624,793.2814000000001,6,16,513.1039999999999,High Value,0.4033652082052065,-0.2815661579387402,"Offer loyalty rewards, early access, and exclusive services."
+GM-14500,1255.682,441.3185,10,106,125.5682,High Value,-0.2911540864556702,-1.3587869413355256,"Offer loyalty rewards, early access, and exclusive services."
+GM-14680,3163.628,35.48649999999999,6,152,527.2713333333334,High Value,-0.0591805712791178,0.1097143240386066,"Offer loyalty rewards, early access, and exclusive services."
+GM-14695,6049.966,188.7235,3,117,2016.6553333333331,Low Value,2.2194760445221378,2.07245610451493,Use low-cost retention strategies and remarketing.
+GP-14740,236.53,31.8376,2,765,118.265,Medium Value,-2.280359514038862,2.888159734481861,Upsell and cross-sell through bundles and promos.
+GR-14560,1284.38,359.83320000000003,2,1135,642.19,Medium Value,-1.5445183250606949,4.7506768318209405,Upsell and cross-sell through bundles and promos.
+GT-14635,9351.212,-4108.6589,3,56,3117.0706666666665,Low Value,2.261489967523717,2.2079110192902407,Use low-cost retention strategies and remarketing.
+GT-14710,11820.12,2163.4269,11,36,1074.5563636363636,Low Value,4.450448472408675,-0.5236681202347868,Use low-cost retention strategies and remarketing.
+GT-14755,226.436,-6.139200000000002,4,34,56.609,High Value,-1.4966678072145096,-0.3093219144382219,"Offer loyalty rewards, early access, and exclusive services."
+GW-14605,2189.019,-268.54229999999995,7,28,312.717,High Value,-0.4815462942978659,-0.8367802492851562,"Offer loyalty rewards, early access, and exclusive services."
+GZ-14470,4355.150000000001,1087.7539,9,7,483.9055555555556,Low Value,1.1848468787154716,-0.9935384283392718,Use low-cost retention strategies and remarketing.
+GZ-14545,2454.6220000000003,828.661,4,157,613.6555000000001,High Value,0.0341989566378075,0.7926416417694976,"Offer loyalty rewards, early access, and exclusive services."
+HA-14905,2163.3,270.8574,7,69,309.04285714285714,High Value,-0.2574028578940952,-0.6091683295288612,"Offer loyalty rewards, early access, and exclusive services."
+HA-14920,2584.158,99.1445,8,20,323.01975,High Value,-0.0638186114561993,-1.0347169793289952,"Offer loyalty rewards, early access, and exclusive services."
+HD-14785,251.36,-135.87599999999998,3,769,83.78666666666668,Medium Value,-2.288266462563828,2.6042164919194573,Upsell and cross-sell through bundles and promos.
+HE-14800,883.5319999999999,274.4028,4,12,220.883,High Value,-0.9766532215046728,-0.1904427662134759,"Offer loyalty rewards, early access, and exclusive services."
+HF-14995,2533.164,-13.876799999999989,7,21,361.8805714285714,High Value,-0.2045545737844255,-0.7728534774182241,"Offer loyalty rewards, early access, and exclusive services."
+HG-14845,785.628,147.0032,5,54,157.12560000000002,High Value,-1.0608366657145454,-0.3580187636465751,"Offer loyalty rewards, early access, and exclusive services."
+HG-14965,3247.642,-2797.9635000000003,12,23,270.6368333333333,High Value,-0.952221408293094,-2.4711868568279365,"Offer loyalty rewards, early access, and exclusive services."
+HG-15025,3690.284,804.6113,7,6,527.1834285714286,Low Value,0.7002878590060779,-0.532740451716826,Use low-cost retention strategies and remarketing.
+HH-15010,218.668,86.7342,2,72,109.334,High Value,-1.657968507971536,0.3750301117397965,"Offer loyalty rewards, early access, and exclusive services."
+HJ-14875,358.1,98.6548,5,126,71.62,High Value,-1.3561952073328862,-0.1874586105509794,"Offer loyalty rewards, early access, and exclusive services."
+HK-14890,4877.784,956.9451,8,151,609.723,Low Value,1.1536847036393925,-0.1276688440224011,Use low-cost retention strategies and remarketing.
+HL-15040,12873.298,5622.4292000000005,6,43,2145.5496666666663,At Risk,7.160430533327786,2.1853135465300824,"Send re-engagement emails, discounts, and check-in calls."
+HM-14860,8236.7648,2437.9836,10,2,823.6764800000001,Low Value,3.333330571434659,-0.663429659825477,Use low-cost retention strategies and remarketing.
+HM-14980,736.276,117.2755,4,247,184.069,High Value,-1.3430809377450126,0.6029396073185497,"Offer loyalty rewards, early access, and exclusive services."
+HP-14815,1990.314,373.8637,7,30,284.33057142857143,High Value,-0.2431711590180943,-0.7601145073091417,"Offer loyalty rewards, early access, and exclusive services."
+HR-14770,1299.288,185.5794,5,13,259.8576,High Value,-0.7558364933483407,-0.400881716115985,"Offer loyalty rewards, early access, and exclusive services."
+HR-14830,5248.787,1196.9504,7,159,749.8267142857143,Low Value,1.4098777788526566,0.3100583583509725,Use low-cost retention strategies and remarketing.
+HW-14935,9300.254,2164.1611,8,117,1162.53175,Low Value,3.5291402005784667,0.513334083953641,Use low-cost retention strategies and remarketing.
+HZ-14950,886.52,-130.3879,5,35,177.304,High Value,-1.1344204519684065,-0.44981331373742,"Offer loyalty rewards, early access, and exclusive services."
+IG-15085,744.574,320.4982,4,71,186.1435,High Value,-1.0815192964430105,-0.0023067112073266,"Offer loyalty rewards, early access, and exclusive services."
+IL-15100,5040.736,1121.937,7,142,720.1051428571428,Low Value,1.3007662961850126,0.2065014635274057,Use low-cost retention strategies and remarketing.
+IM-15055,2872.63,975.7701,3,409,957.5433333333334,Medium Value,0.2915602541969518,2.274996775532991,Upsell and cross-sell through bundles and promos.
+IM-15070,4930.474,514.6527,7,390,704.3534285714286,Low Value,0.7316242590027264,0.996825258390532,Use low-cost retention strategies and remarketing.
+JA-15970,6491.026,-819.4217000000001,8,92,811.37825,Low Value,0.9478501912563568,-0.4025636663021994,Use low-cost retention strategies and remarketing.
+JB-15400,1791.605,156.05319999999998,10,7,179.1605,High Value,-0.1530454444892849,-1.7027297979530855,"Offer loyalty rewards, early access, and exclusive services."
+JB-15925,900.552,-286.9808,3,737,300.184,Medium Value,-1.913834015578704,2.6646488504994803,Upsell and cross-sell through bundles and promos.
+JB-16000,644.1188,126.7649,7,43,92.01697142857142,High Value,-0.937786754309806,-0.9475459175652172,"Offer loyalty rewards, early access, and exclusive services."
+JB-16045,2518.115,201.5185,5,7,503.62299999999993,High Value,-0.1504589931346489,-0.1830768601056084,"Offer loyalty rewards, early access, and exclusive services."
+JC-15340,71.263,-0.3556000000000003,4,114,17.81575,High Value,-1.6491462768283476,-0.0550378230440803,"Offer loyalty rewards, early access, and exclusive services."
+JC-15385,1058.108,502.9244000000001,1,175,1058.108,High Value,-0.2873030521566868,1.881356630016553,"Offer loyalty rewards, early access, and exclusive services."
+JC-15775,2772.055,279.5692,9,158,308.00611111111107,High Value,0.0505446131154222,-0.758454594404548,"Offer loyalty rewards, early access, and exclusive services."
+JC-16105,858.576,201.5952,5,57,171.7152,High Value,-1.0006211766031237,-0.3245794236599105,"Offer loyalty rewards, early access, and exclusive services."
+JD-15790,2152.352,-266.55249999999995,5,117,430.4704,High Value,-0.660078325144292,0.0730046947379913,"Offer loyalty rewards, early access, and exclusive services."
+JD-15895,7610.864,1050.2668,11,394,691.8967272727273,Low Value,2.097867138764097,0.1744316406681617,Use low-cost retention strategies and remarketing.
+JD-16015,385.43,26.7605,6,112,64.23833333333333,High Value,-1.2637121683520598,-0.498728263142876,"Offer loyalty rewards, early access, and exclusive services."
+JD-16060,695.442,111.1141,3,300,231.814,Medium Value,-1.462536245528115,1.0775677646558532,Upsell and cross-sell through bundles and promos.
+JD-16150,8828.0305,1619.5199,8,41,1103.5038125,Low Value,3.136789823684699,0.0923564050590592,Use low-cost retention strategies and remarketing.
+JE-15475,1388.682,276.2197,6,193,231.447,High Value,-0.763619489025467,0.0001342667731839,"Offer loyalty rewards, early access, and exclusive services."
+JE-15610,7754.976,1623.4019,7,48,1107.8537142857142,Low Value,2.7625876520945543,0.3390332935116,Use low-cost retention strategies and remarketing.
+JE-15715,8697.842999999999,1262.2926,10,46,869.7842999999999,Low Value,2.87119194514739,-0.6333834253304854,Use low-cost retention strategies and remarketing.
+JE-15745,6760.8150000000005,221.7967,13,51,520.0626923076924,Low Value,1.806218587042969,-1.8513293471349048,Use low-cost retention strategies and remarketing.
+JE-16165,2697.248,789.6476,3,20,899.0826666666667,High Value,0.4265007016856803,0.7816248585494537,"Offer loyalty rewards, early access, and exclusive services."
+JF-15190,2279.586,575.1259,7,65,325.6551428571429,High Value,-0.0527662831451543,-0.5600552004569899,"Offer loyalty rewards, early access, and exclusive services."
+JF-15295,955.124,97.289,5,225,191.0248,High Value,-1.1540131137956693,0.2875590534069719,"Offer loyalty rewards, early access, and exclusive services."
+JF-15355,1911.844,330.199,6,105,318.6406666666667,High Value,-0.4264026664261385,-0.2237676819841736,"Offer loyalty rewards, early access, and exclusive services."
+JF-15415,2371.448,635.6376,6,2,395.2413333333333,High Value,0.0220564681777169,-0.4741091053825016,"Offer loyalty rewards, early access, and exclusive services."
+JF-15490,1082.918,-18.06730000000001,11,121,98.4470909090909,High Value,-0.4910092918945773,-1.6459987101277207,"Offer loyalty rewards, early access, and exclusive services."
+JF-15565,4198.332,1073.2088,8,54,524.7915,Low Value,1.0302751029194916,-0.5506769532673609,Use low-cost retention strategies and remarketing.
+JG-15115,2358.676,684.1911,3,758,786.2253333333333,Medium Value,-0.4963552739565263,3.3380811002837416,Upsell and cross-sell through bundles and promos.
+JG-15160,6366.392,1415.6664,11,1,578.762909090909,Low Value,2.1903216725871357,-1.322057265333603,Use low-cost retention strategies and remarketing.
+JG-15310,2240.58,3.7976000000000063,6,2,373.43,High Value,-0.3534851234545157,-0.5927015233441066,"Offer loyalty rewards, early access, and exclusive services."
+JG-15805,1507.018,206.1019,6,223,251.16966666666667,High Value,-0.7726287977391315,0.1178791847455213,"Offer loyalty rewards, early access, and exclusive services."
+JH-15430,309.281,-24.077100000000005,4,5,77.32025,High Value,-1.4347910157074992,-0.3976266522001742,"Offer loyalty rewards, early access, and exclusive services."
+JH-15820,528.91,26.0822,6,174,88.15166666666666,High Value,-1.254836318002479,-0.2500955920135328,"Offer loyalty rewards, early access, and exclusive services."
+JH-15910,959.477,-13.554499999999996,7,41,137.06814285714285,High Value,-0.8755378120196848,-0.9302214381894874,"Offer loyalty rewards, early access, and exclusive services."
+JH-15985,7954.998,-644.6982,6,29,1325.833,Low Value,1.8380247384499029,0.3561755472732056,Use low-cost retention strategies and remarketing.
+JH-16180,2256.394,-96.95300000000002,4,404,564.0985000000001,Medium Value,-0.7566808140102638,1.4997023490136594,Upsell and cross-sell through bundles and promos.
+JJ-15445,709.178,200.5558,5,483,141.8356,Medium Value,-1.4487625166139655,1.1913071500964578,Upsell and cross-sell through bundles and promos.
+JJ-15760,195.0,34.449200000000005,2,753,97.5,Medium Value,-2.3040282775473475,2.826397862700459,Upsell and cross-sell through bundles and promos.
+JK-15205,4427.142,1219.983,5,61,885.4284,Low Value,1.2409157887296849,0.540264222168544,Use low-cost retention strategies and remarketing.
+JK-15325,383.812,55.32769999999999,3,287,127.93733333333334,Medium Value,-1.6817563430071285,0.9260280434613082,Upsell and cross-sell through bundles and promos.
+JK-15370,2709.632,330.2838,8,44,338.704,High Value,0.0804886749099349,-0.8958103198774067,"Offer loyalty rewards, early access, and exclusive services."
+JK-15625,3760.028,750.9485,7,61,537.1468571428571,Low Value,0.6538779491168324,-0.3312865174476864,Use low-cost retention strategies and remarketing.
+JK-15640,4760.434,1172.5303,9,180,528.9371111111111,Low Value,1.2275583090131157,-0.3047520466673878,Use low-cost retention strategies and remarketing.
+JK-15730,4867.2,55.0483,10,84,486.72,Low Value,0.8430873326447886,-1.1012018173841769,Use low-cost retention strategies and remarketing.
+JK-16090,3747.668,586.6625,3,28,1249.2226666666668,High Value,1.0005694401469665,1.1025818942433143,"Offer loyalty rewards, early access, and exclusive services."
+JK-16120,2932.484,122.6566,10,117,293.2484,Low Value,0.146814368223093,-1.1835972586137335,Use low-cost retention strategies and remarketing.
+JL-15130,1214.956,-207.7956,6,8,202.49266666666665,High Value,-0.9211006099418164,-0.7739307609648443,"Offer loyalty rewards, early access, and exclusive services."
+JL-15175,1571.523,209.2817,5,6,314.3046,High Value,-0.6055209719125182,-0.3696748611611387,"Offer loyalty rewards, early access, and exclusive services."
+JL-15235,2203.7,54.51740000000002,5,119,440.74,High Value,-0.4756336727333483,0.1394520689773395,"Offer loyalty rewards, early access, and exclusive services."
+JL-15505,3173.874,591.7163,6,49,528.9789999999999,High Value,0.315428231786017,-0.176923573596341,"Offer loyalty rewards, early access, and exclusive services."
+JL-15835,9799.923,228.907,11,21,890.9020909090909,Low Value,2.782517807872274,-1.0808070970967116,Use low-cost retention strategies and remarketing.
+JL-15850,2725.256,779.9046,6,614,454.2093333333333,Medium Value,-0.2869533246800285,1.826576719150325,Upsell and cross-sell through bundles and promos.
+JM-15250,3159.1220000000003,19.82350000000004,6,37,526.5203333333334,High Value,0.0321930517808549,-0.3105429189712898,"Offer loyalty rewards, early access, and exclusive services."
+JM-15265,1804.146,502.6143,5,37,360.8292,High Value,-0.3724779338319251,-0.167027265168998,"Offer loyalty rewards, early access, and exclusive services."
+JM-15535,1733.443,356.5395,7,102,247.6347142857143,High Value,-0.4219362421297364,-0.5391595516795357,"Offer loyalty rewards, early access, and exclusive services."
+JM-15580,303.948,113.1204,5,0,60.78959999999999,High Value,-1.264307549846274,-0.6527819077618096,"Offer loyalty rewards, early access, and exclusive services."
+JM-15655,864.947,117.204,5,8,172.9894,High Value,-0.9967739001231128,-0.5139968551986611,"Offer loyalty rewards, early access, and exclusive services."
+JM-15865,7625.076000000001,1574.6164,7,109,1089.2965714285715,Low Value,2.630434840964835,0.5338234674667935,Use low-cost retention strategies and remarketing.
+JM-16195,2833.9260000000004,754.1144,10,57,283.3926,Low Value,0.4810755242683522,-1.3152710613556204,Use low-cost retention strategies and remarketing.
+JO-15145,3254.949,581.4045,9,57,361.661,Low Value,0.4726930116429839,-1.020955312124019,Use low-cost retention strategies and remarketing.
+JO-15280,1934.272,202.1362,6,92,322.3786666666667,High Value,-0.469305846082888,-0.2868145558683045,"Offer loyalty rewards, early access, and exclusive services."
+JO-15550,1090.838,167.6709,5,215,218.1676,High Value,-1.0439310882075925,0.2884780907656437,"Offer loyalty rewards, early access, and exclusive services."
+JP-15460,1669.135,429.7465,7,37,238.44785714285717,High Value,-0.3546486560301744,-0.7730942410321537,"Offer loyalty rewards, early access, and exclusive services."
+JP-15520,3635.594,757.1802,7,8,519.3705714285715,Low Value,0.6519920002021371,-0.5407468298488033,Use low-cost retention strategies and remarketing.
+JP-16135,1707.71,309.7116,9,102,189.7455555555556,High Value,-0.2853425902485401,-1.0838443048939124,"Offer loyalty rewards, early access, and exclusive services."
+JR-15670,1156.658,-785.1645,2,593,578.329,Medium Value,-1.7517548741518951,2.5520424738345944,Upsell and cross-sell through bundles and promos.
+JR-15700,863.88,107.985,1,68,863.88,High Value,-0.6775099663678128,1.263278522875508,"Offer loyalty rewards, early access, and exclusive services."
+JR-16210,2201.686,452.3730000000001,5,33,440.33720000000005,High Value,-0.2010711723539605,-0.1118928493989976,"Offer loyalty rewards, early access, and exclusive services."
+JS-15595,1417.654,-175.54899999999998,4,119,354.4135,High Value,-1.004432225135898,0.255239755327075,"Offer loyalty rewards, early access, and exclusive services."
+JS-15685,1131.064,-54.8692,4,42,282.766,High Value,-1.0329292193815247,-0.0734466202386528,"Offer loyalty rewards, early access, and exclusive services."
+JS-15880,3868.02,564.9798000000001,5,534,773.604,Medium Value,0.223896761310383,2.046689476983211,Upsell and cross-sell through bundles and promos.
+JS-15940,469.169,-327.9336,5,463,93.8338,Medium Value,-1.8131881638431917,0.9910823926347796,Upsell and cross-sell through bundles and promos.
+JS-16030,2516.494,-311.25749999999994,6,28,419.4156666666667,High Value,-0.4119263902893408,-0.5007951953233171,"Offer loyalty rewards, early access, and exclusive services."
+JW-15220,7721.714,2173.7094,6,42,1286.9523333333334,Low Value,3.1384262621050785,0.7964478615389776,Use low-cost retention strategies and remarketing.
+JW-15955,1244.086,-29.575899999999987,7,5,177.72657142857142,High Value,-0.7336954709294237,-1.021660498864453,"Offer loyalty rewards, early access, and exclusive services."
+JW-16075,1428.731,154.06369999999998,4,461,357.18275,Medium Value,-1.13390738970629,1.5488184032251469,Upsell and cross-sell through bundles and promos.
+KA-16525,1519.506,234.9194,7,36,217.07228571428573,High Value,-0.5137620694910632,-0.8284430448053541,"Offer loyalty rewards, early access, and exclusive services."
+KB-16240,3152.615,763.9076,7,4,450.3735714285714,High Value,0.4583158146115465,-0.6248001142191544,"Offer loyalty rewards, early access, and exclusive services."
+KB-16315,1569.464,49.71929999999999,9,296,174.3848888888889,High Value,-0.6387194181791249,-0.4365277424824575,"Offer loyalty rewards, early access, and exclusive services."
+KB-16405,908.821,274.297,3,117,302.94033333333334,High Value,-1.0807099263876576,0.5044532215452522,"Offer loyalty rewards, early access, and exclusive services."
+KB-16585,2744.742,579.3551,12,230,228.72850000000005,Low Value,0.3899182141095645,-1.2509437155477303,Use low-cost retention strategies and remarketing.
+KB-16600,983.922,293.55240000000003,7,1,140.56028571428573,High Value,-0.6759224811098374,-1.0246665538488895,"Offer loyalty rewards, early access, and exclusive services."
+KC-16255,2120.954,846.1217,6,407,353.49233333333336,Medium Value,-0.3401666595022916,0.985433188481067,Upsell and cross-sell through bundles and promos.
+KC-16540,3908.262,709.4219,4,97,977.0655,High Value,0.8229573589984064,0.9011474231396328,"Offer loyalty rewards, early access, and exclusive services."
+KC-16675,1146.05,156.7797,4,57,286.5125,High Value,-0.9316273637975786,0.0169441322947754,"Offer loyalty rewards, early access, and exclusive services."
+KD-16270,8282.358,1107.6952000000003,5,484,1656.4716,Low Value,2.684926779535973,2.807323819193611,Use low-cost retention strategies and remarketing.
+KD-16345,1888.964,328.5942,6,41,314.82733333333334,High Value,-0.3810380016109294,-0.4599480596549616,"Offer loyalty rewards, early access, and exclusive services."
+KD-16495,8181.256,3038.6254,12,112,681.7713333333334,Low Value,3.587514977843947,-0.781862071403611,Use low-cost retention strategies and remarketing.
+KD-16615,2243.51,539.7219,5,289,448.702,High Value,-0.362260011298747,0.8381478269651862,"Offer loyalty rewards, early access, and exclusive services."
+KE-16420,1686.7312,397.8799,8,26,210.8414,High Value,-0.2719800953377654,-1.0847316915457634,"Offer loyalty rewards, early access, and exclusive services."
+KF-16285,10604.266,1660.1386,7,97,1514.895142857143,Low Value,3.921183640718614,0.9387447655898116,Use low-cost retention strategies and remarketing.
+KH-16330,3312.864,454.7871,8,40,414.108,High Value,0.3837709289212223,-0.8122186132534878,"Offer loyalty rewards, early access, and exclusive services."
+KH-16360,3100.612,528.2051,6,1,516.7686666666667,High Value,0.2932104490964298,-0.3729373761336138,"Offer loyalty rewards, early access, and exclusive services."
+KH-16510,5952.859,656.1162,7,22,850.4084285714287,Low Value,1.551244382338065,-0.1668419902631824,Use low-cost retention strategies and remarketing.
+KH-16630,3918.966,727.3786,9,58,435.4406666666667,Low Value,0.7948841336777177,-0.9157910249133192,Use low-cost retention strategies and remarketing.
+KH-16690,5990.799,1227.5091,7,2,855.8284285714286,Low Value,1.871597227970329,-0.146273224108012,Use low-cost retention strategies and remarketing.
+KL-16555,5016.488,-182.7813,8,16,627.061,Low Value,0.7546419892840623,-0.7738088956860821,Use low-cost retention strategies and remarketing.
+KL-16645,14175.229,806.855,12,47,1181.2690833333334,Low Value,4.572890669782213,-0.7861034240931197,Use low-cost retention strategies and remarketing.
+KM-16225,2260.958,635.1057000000001,6,14,376.82633333333337,High Value,-0.0379062077782937,-0.4490412423903085,"Offer loyalty rewards, early access, and exclusive services."
+KM-16375,5620.186,973.7902,8,56,702.52325,Low Value,1.5377393891261495,-0.372404169648198,Use low-cost retention strategies and remarketing.
+KM-16660,453.538,91.1391,5,15,90.7076,High Value,-1.2158849032819543,-0.5726422541241944,"Offer loyalty rewards, early access, and exclusive services."
+KM-16720,4909.472,745.7685,8,28,613.684,Low Value,1.1683676189161238,-0.6020041431303559,Use low-cost retention strategies and remarketing.
+KN-16390,2617.272,-151.1518,9,19,290.808,High Value,-0.10163476189658,-1.3470719495794867,"Offer loyalty rewards, early access, and exclusive services."
+KN-16450,2171.962,114.3083,5,52,434.3924,High Value,-0.40203509770587,-0.1005702112168265,"Offer loyalty rewards, early access, and exclusive services."
+KN-16705,2280.58,329.76250000000005,8,98,285.0725,High Value,-0.1360431907939597,-0.7562342979866116,"Offer loyalty rewards, early access, and exclusive services."
+KS-16300,88.472,0.1109999999999988,3,295,29.490666666666662,Medium Value,-1.908585369122166,0.85575294857009,Upsell and cross-sell through bundles and promos.
+KT-16465,3057.1,254.0032,7,391,436.7285714285714,Medium Value,-0.1781651303797078,0.6867580223736518,Upsell and cross-sell through bundles and promos.
+KT-16480,4642.088400000001,194.0671,10,100,464.20884000000007,Low Value,0.8172403978065945,-1.0465841696572329,Use low-cost retention strategies and remarketing.
+KW-16435,4416.52,1756.135,5,96,883.3039999999999,Low Value,1.474231170871748,0.7473080143585372,Use low-cost retention strategies and remarketing.
+KW-16570,449.096,107.927,4,771,112.274,Medium Value,-1.9663202823730976,2.43402709881154,Upsell and cross-sell through bundles and promos.
+LA-16780,8673.222,2059.1199,11,154,788.4747272727273,Low Value,3.1889720053629165,-0.4329768289238516,Use low-cost retention strategies and remarketing.
+LB-16735,50.188,18.6507,3,48,16.729333333333333,High Value,-1.706713812181882,-0.0490542665184524,"Offer loyalty rewards, early access, and exclusive services."
+LB-16795,4985.676,-52.19099999999998,8,152,623.2095,Low Value,0.6883831236631625,-0.2645572952093585,Use low-cost retention strategies and remarketing.
+LC-16870,2580.704,-188.25110000000004,8,27,322.588,High Value,-0.2156875592473857,-1.0538232500397042,"Offer loyalty rewards, early access, and exclusive services."
+LC-16885,7663.126,1288.3469,12,16,638.5938333333334,Low Value,2.6158066093834647,-1.447860967898544,Use low-cost retention strategies and remarketing.
+LC-16930,4492.946,288.266,8,41,561.61825,Low Value,0.7633331345451451,-0.6795269237582604,Use low-cost retention strategies and remarketing.
+LC-16960,3246.626,299.4802,4,436,811.6565,Medium Value,-0.0436171815925877,1.9111283417203648,Upsell and cross-sell through bundles and promos.
+LC-17050,2095.064,86.77799999999999,5,54,419.0128,High Value,-0.4549792974657137,-0.1124957505192768,"Offer loyalty rewards, early access, and exclusive services."
+LC-17140,2633.582,231.12520000000004,9,13,292.6202222222222,High Value,0.1017854353811534,-1.3083061213317104,"Offer loyalty rewards, early access, and exclusive services."
+LD-16855,5.304,0.4641,1,552,5.304,Medium Value,-2.4220682754569167,2.253177114412094,Upsell and cross-sell through bundles and promos.
+LD-17005,1961.934,557.1714,4,414,490.4835,Medium Value,-0.5981508090598142,1.566451953499716,Upsell and cross-sell through bundles and promos.
+LE-16810,1469.45,161.76489999999998,6,21,244.90833333333333,High Value,-0.6337650699455014,-0.6278215657361219,"Offer loyalty rewards, early access, and exclusive services."
+LF-17185,3930.509,-3583.977,7,22,561.5012857142857,High Value,-1.4182569378384018,-1.1121497874110529,"Offer loyalty rewards, early access, and exclusive services."
+LH-16750,287.426,12.6277,3,151,95.80866666666668,High Value,-1.6461482139257884,0.3965665951462356,"Offer loyalty rewards, early access, and exclusive services."
+LH-16900,2295.332,526.0727,9,21,255.03688888888888,High Value,0.1156586157072983,-1.274417262014178,"Offer loyalty rewards, early access, and exclusive services."
+LH-17020,318.239,-242.7399,4,239,79.55975,High Value,-1.7457227861995048,0.4197091151317036,"Offer loyalty rewards, early access, and exclusive services."
+LH-17155,1739.689,316.5202,9,385,193.2987777777778,High Value,-0.5190435424808755,-0.0525409582526962,"Offer loyalty rewards, early access, and exclusive services."
+LL-16840,2741.204,560.0078,6,249,456.8673333333333,High Value,-0.0689673463522136,0.4716669730536446,"Offer loyalty rewards, early access, and exclusive services."
+LM-17065,1346.774,-44.87799999999999,5,391,269.35479999999995,Medium Value,-1.181303789507069,0.944053841476292,Upsell and cross-sell through bundles and promos.
+LO-17170,644.35,150.1712,5,2,128.87,High Value,-1.0820964400694868,-0.5736242380639366,"Offer loyalty rewards, early access, and exclusive services."
+LP-17080,756.606,110.7813,4,40,189.1515,High Value,-1.152973079852246,-0.1440325637919721,"Offer loyalty rewards, early access, and exclusive services."
+LP-17095,3653.399,338.44539999999995,7,9,521.9141428571428,High Value,0.4481912205790225,-0.5986885405520133,"Offer loyalty rewards, early access, and exclusive services."
+LR-16915,5142.892,535.4764,6,26,857.1486666666666,Low Value,1.182981036515123,0.0584911022899114,Use low-cost retention strategies and remarketing.
+LR-17035,1879.306,-382.8079,5,132,375.8612,High Value,-0.8643168146427059,0.0564726032399977,"Offer loyalty rewards, early access, and exclusive services."
+LS-16945,2845.27,-318.7737,6,178,474.2116666666666,High Value,-0.4015643552191599,0.096782925738087,"Offer loyalty rewards, early access, and exclusive services."
+LS-16975,2988.674,262.6367,9,20,332.0748888888889,High Value,0.2450092091182583,-1.2357522902629023,"Offer loyalty rewards, early access, and exclusive services."
+LS-17200,1010.256,244.197,6,96,168.376,High Value,-0.8625783531046133,-0.4195279377694552,"Offer loyalty rewards, early access, and exclusive services."
+LS-17230,368.88000000000005,39.1952,3,777,122.96000000000002,Medium Value,-2.1309573930192856,2.696204394909434,Upsell and cross-sell through bundles and promos.
+LS-17245,1008.136,348.3584,6,34,168.02266666666668,High Value,-0.7566208756270079,-0.6287932858955012,"Offer loyalty rewards, early access, and exclusive services."
+LT-16765,329.876,59.036,3,26,109.95866666666666,High Value,-1.48518678426145,-0.036644016790006,"Offer loyalty rewards, early access, and exclusive services."
+LT-17110,2936.252,320.973,8,34,367.0315,High Value,0.1737367896836657,-0.9038215229473028,"Offer loyalty rewards, early access, and exclusive services."
+LW-16825,2238.061,32.5767,5,88,447.6122,High Value,-0.4426696317697992,0.0303369774817741,"Offer loyalty rewards, early access, and exclusive services."
+LW-16990,3230.308,662.8339000000001,6,33,538.3846666666667,High Value,0.3903282221397167,-0.2146720756072875,"Offer loyalty rewards, early access, and exclusive services."
+LW-17125,1259.04,192.6312,3,205,419.68,High Value,-0.9714621767402032,0.9188229764873362,"Offer loyalty rewards, early access, and exclusive services."
+LW-17215,5420.514,837.2411,7,21,774.3591428571428,Low Value,1.4220190721152692,-0.2205017303387332,Use low-cost retention strategies and remarketing.
+MA-17560,4299.161,1240.2266,11,64,390.8328181818182,Low Value,1.3207218833031942,-1.3315143434211114,Use low-cost retention strategies and remarketing.
+MA-17995,2453.284,280.7822,6,186,408.8806666666667,High Value,-0.281775196553689,0.1524915017523568,"Offer loyalty rewards, early access, and exclusive services."
+MB-17305,1548.702,212.425,10,48,154.8702,High Value,-0.248860388005643,-1.572055778393438,"Offer loyalty rewards, early access, and exclusive services."
+MB-18085,1428.231,117.8057,7,44,204.033,High Value,-0.6175325748460547,-0.8307120984928996,"Offer loyalty rewards, early access, and exclusive services."
+MC-17275,2725.982,461.0014,8,76,340.74775,High Value,0.124400688690728,-0.7575715691109228,"Offer loyalty rewards, early access, and exclusive services."
+MC-17425,4432.138,1802.3903,5,399,886.4276,Low Value,1.2382939844908816,1.8564227841407948,Use low-cost retention strategies and remarketing.
+MC-17575,1303.893,210.7493,8,27,162.986625,High Value,-0.5174043055998925,-1.1599317205325193,"Offer loyalty rewards, early access, and exclusive services."
+MC-17590,2426.067,288.9841,6,51,404.3445,High Value,-0.1709062093447011,-0.3404258437265675,"Offer loyalty rewards, early access, and exclusive services."
+MC-17605,2258.192,195.4486,8,112,282.274,High Value,-0.2246336821285963,-0.7289721007027246,"Offer loyalty rewards, early access, and exclusive services."
+MC-17635,795.154,-247.94350000000003,4,189,198.7885,High Value,-1.4432203713067582,0.3505525600313408,"Offer loyalty rewards, early access, and exclusive services."
+MC-17845,3805.714,698.4174,7,1,543.6734285714285,Low Value,0.6992895984841823,-0.5502822155690439,Use low-cost retention strategies and remarketing.
+MC-18100,2218.98,-64.1668,10,41,221.898,High Value,-0.1386979715267322,-1.5662300902678237,"Offer loyalty rewards, early access, and exclusive services."
+MC-18130,1581.9979999999998,121.7565,5,369,316.3996,Medium Value,-0.9639725068421906,0.9355589860721352,Upsell and cross-sell through bundles and promos.
+MD-17350,3766.382,-241.95,7,117,538.0545714285714,High Value,0.1085198333520711,-0.2794050886693118,"Offer loyalty rewards, early access, and exclusive services."
+MD-17860,1204.91,-4.040300000000002,5,36,240.98200000000003,High Value,-0.9171716845984552,-0.3648805196204861,"Offer loyalty rewards, early access, and exclusive services."
+ME-17320,10663.728,1859.4695,10,42,1066.3728,Low Value,3.887126440463366,-0.3405043261998049,Use low-cost retention strategies and remarketing.
+ME-17725,1908.4532,77.81280000000001,8,28,238.55665,High Value,-0.3473039145637942,-1.097483204587855,"Offer loyalty rewards, early access, and exclusive services."
+ME-18010,1256.944,107.3604,4,92,314.236,High Value,-0.9265510998988544,0.1625897763365871,"Offer loyalty rewards, early access, and exclusive services."
+MF-17665,937.039,-341.52650000000006,5,421,187.4078,Medium Value,-1.555754331294036,0.9276890739458128,Upsell and cross-sell through bundles and promos.
+MF-18250,1758.3,456.8608,5,7,351.66,High Value,-0.3913180158292415,-0.291768986614648,"Offer loyalty rewards, early access, and exclusive services."
+MG-17650,3785.276,341.898,7,29,540.7537142857143,High Value,0.4870849214120478,-0.5063482318433593,"Offer loyalty rewards, early access, and exclusive services."
+MG-17680,2350.188,25.88859999999997,4,92,587.547,High Value,-0.3689527589690031,0.4091186732286481,"Offer loyalty rewards, early access, and exclusive services."
+MG-17695,1342.282,-398.7932,3,555,447.4273333333333,Medium Value,-1.5225165014205522,2.123246159822161,Upsell and cross-sell through bundles and promos.
+MG-17875,1242.833,-470.7684,5,116,248.5666,High Value,-1.2035998248189703,-0.1388662063139406,"Offer loyalty rewards, early access, and exclusive services."
+MG-17890,776.384,171.7372,9,99,86.26488888888889,High Value,-0.7022969349358643,-1.2269064128515828,"Offer loyalty rewards, early access, and exclusive services."
+MG-18145,3061.543,-93.603,4,84,765.38575,High Value,-0.0324801076154355,0.5303267336383396,"Offer loyalty rewards, early access, and exclusive services."
+MG-18205,16.739,-1.2453,1,264,16.739,Medium Value,-2.1525354837583395,1.2183097478387284,Upsell and cross-sell through bundles and promos.
+MH-17290,2394.025,28.76120000000004,6,119,399.00416666666666,High Value,-0.3757203859334628,-0.1389958335631737,"Offer loyalty rewards, early access, and exclusive services."
+MH-17440,400.016,61.4286,4,376,100.004,Medium Value,-1.6687926542225835,0.9825993724313266,Upsell and cross-sell through bundles and promos.
+MH-17455,2456.182,484.77330000000006,8,85,307.02275000000003,High Value,0.0223152259542692,-0.7566275706134694,"Offer loyalty rewards, early access, and exclusive services."
+MH-17620,1252.8,122.3612,4,155,313.2,High Value,-0.9767497020522792,0.3924092149231846,"Offer loyalty rewards, early access, and exclusive services."
+MH-17785,2203.778,238.5614,7,98,314.82542857142863,High Value,-0.2823449321495264,-0.5030190847967159,"Offer loyalty rewards, early access, and exclusive services."
+MH-18025,2984.948,476.9032,5,49,596.9896,High Value,0.1776612990613158,0.1022833425545821,"Offer loyalty rewards, early access, and exclusive services."
+MH-18115,5503.093,170.9746,9,5,611.4547777777777,Low Value,1.1579156207463135,-1.0044249513366366,Use low-cost retention strategies and remarketing.
+MJ-17740,6320.746,1054.5529,7,22,902.9637142857144,Low Value,1.90414407457278,-0.0520239872266447,Use low-cost retention strategies and remarketing.
+MK-17905,2302.368,-405.3559,8,28,287.796,High Value,-0.4350700707801944,-1.1199276103292943,"Offer loyalty rewards, early access, and exclusive services."
+MK-18160,1031.602,227.8338,4,240,257.9005,High Value,-1.119706803430446,0.664462794035118,"Offer loyalty rewards, early access, and exclusive services."
+ML-17395,2722.843,684.9162,9,69,302.5381111111111,Low Value,0.3139793611816685,-1.0250079709748203,Use low-cost retention strategies and remarketing.
+ML-17410,2921.5,-76.17550000000003,6,54,486.9166666666667,High Value,-0.1366520633986336,-0.3031126592811177,"Offer loyalty rewards, early access, and exclusive services."
+ML-17755,2071.914,409.5112,7,29,295.9877142857143,High Value,-0.190498670804757,-0.746354655852464,"Offer loyalty rewards, early access, and exclusive services."
+ML-18040,742.082,138.7162,3,79,247.36066666666667,High Value,-1.223778893279281,0.2945696036710485,"Offer loyalty rewards, early access, and exclusive services."
+ML-18265,162.232,42.6648,2,100,81.116,High Value,-1.753056635515384,0.4445058143432076,"Offer loyalty rewards, early access, and exclusive services."
+MM-17260,1314.023,178.402,4,168,328.50575,High Value,-0.926529756774972,0.4626537959557955,"Offer loyalty rewards, early access, and exclusive services."
+MM-17920,3794.08,82.12499999999997,11,7,344.91636363636366,Low Value,0.6118469637503613,-1.7673030875581095,Use low-cost retention strategies and remarketing.
+MM-18055,2749.881,-520.3443,8,61,343.735125,High Value,-0.3458878173598438,-0.9592361230953078,"Offer loyalty rewards, early access, and exclusive services."
+MM-18280,775.414,58.8916,9,85,86.1571111111111,High Value,-0.7470144698817177,-1.295093800040297,"Offer loyalty rewards, early access, and exclusive services."
+MN-17935,2477.946,290.8227,6,34,412.991,High Value,-0.1319474984840436,-0.3931757904224395,"Offer loyalty rewards, early access, and exclusive services."
+MO-17500,922.487,59.3577,4,72,230.62175,High Value,-1.1161586011954596,0.0034525269597362,"Offer loyalty rewards, early access, and exclusive services."
+MO-17800,1687.0269999999998,169.34369999999998,8,104,210.878375,High Value,-0.4553188402153962,-0.8368080682637188,"Offer loyalty rewards, early access, and exclusive services."
+MO-17950,154.288,-82.0074,2,180,77.144,High Value,-1.892904703946004,0.711996638264057,"Offer loyalty rewards, early access, and exclusive services."
+MP-17470,3206.132,600.2873,7,719,458.01885714285714,Medium Value,-0.2311142375174424,1.9512664005767884,Upsell and cross-sell through bundles and promos.
+MP-17965,3983.642,638.1563,9,72,442.6268888888889,Low Value,0.7620721094314008,-0.8709749585035329,Use low-cost retention strategies and remarketing.
+MP-18175,5087.92,226.4529,9,16,565.3244444444445,Low Value,1.019938569140321,-1.005524432341449,Use low-cost retention strategies and remarketing.
+MR-17545,639.178,162.9363,4,125,159.7945,High Value,-1.265898608420884,0.1444356380658415,"Offer loyalty rewards, early access, and exclusive services."
+MS-17365,7443.69,844.9354999999998,10,273,744.369,Low Value,2.0071934276351078,-0.0117253106401065,Use low-cost retention strategies and remarketing.
+MS-17530,475.656,84.0268,4,434,118.914,Medium Value,-1.6670940829035454,1.2143506330326006,Upsell and cross-sell through bundles and promos.
+MS-17710,1613.402,247.4348,6,413,268.9003333333333,Medium Value,-0.871836770098587,0.8310396470934182,Upsell and cross-sell through bundles and promos.
+MS-17770,3144.678,280.8584,9,121,349.40866666666665,High Value,0.2239196542823326,-0.8480311418929505,"Offer loyalty rewards, early access, and exclusive services."
+MS-17830,370.348,19.4312,4,452,92.587,Medium Value,-1.773037923174019,1.24478798938103,Upsell and cross-sell through bundles and promos.
+MS-17980,855.116,55.226,6,26,142.51933333333332,High Value,-0.9648495752454186,-0.7281793753633621,"Offer loyalty rewards, early access, and exclusive services."
+MT-17815,2890.139,509.0068,6,49,481.68983333333335,High Value,0.1477196806512119,-0.2367848530567595,"Offer loyalty rewards, early access, and exclusive services."
+MT-18070,1319.4498,-23.676300000000005,4,203,329.86245,High Value,-1.055868483847089,0.5599170873825862,"Offer loyalty rewards, early access, and exclusive services."
+MV-17485,1560.05,189.0258,9,27,173.33888888888887,High Value,-0.3354684732407245,-1.3919705497706192,"Offer loyalty rewards, early access, and exclusive services."
+MV-18190,1734.574,273.8582,7,19,247.7962857142857,High Value,-0.3899223281419838,-0.8527079129697415,"Offer loyalty rewards, early access, and exclusive services."
+MW-18220,5341.900000000001,1238.422,7,17,763.1285714285715,Low Value,1.5943909388708808,-0.1850170192247676,Use low-cost retention strategies and remarketing.
+MW-18235,5253.876,1665.516,2,44,2626.938,At Risk,3.46922550500632,2.775119836141448,"Send re-engagement emails, discounts, and check-in calls."
+MY-17380,2254.285,319.1211,7,29,322.0407142857143,High Value,-0.1601612343436571,-0.7335575268603619,"Offer loyalty rewards, early access, and exclusive services."
+MY-18295,4152.696,-371.7111,11,71,377.5178181818182,Low Value,0.4535048608041616,-1.5681071112065192,Use low-cost retention strategies and remarketing.
+MZ-17335,593.606,85.01910000000001,4,30,148.4015,High Value,-1.2463462609587368,-0.222869208572466,"Offer loyalty rewards, early access, and exclusive services."
+MZ-17515,2564.906,787.7503,6,282,427.4843333333333,High Value,-0.0620269417289542,0.5969409218630132,"Offer loyalty rewards, early access, and exclusive services."
+NB-18580,273.872,24.7888,2,1165,136.93599999999998,Medium Value,-2.60409301542658,4.354646711384563,Upsell and cross-sell through bundles and promos.
+NB-18655,1972.599,117.6429,9,19,219.17766666666665,High Value,-0.2091078090205901,-1.3827402044315198,"Offer loyalty rewards, early access, and exclusive services."
+NC-18340,2461.404,580.3075,5,224,492.2808,High Value,-0.1788004686953836,0.6510026291292487,"Offer loyalty rewards, early access, and exclusive services."
+NC-18415,2218.99,-2204.8072,6,41,369.8316666666667,High Value,-1.5067190230792735,-0.7933037390337715,"Offer loyalty rewards, early access, and exclusive services."
+NC-18535,8241.739,1314.758,7,6,1177.3912857142857,Low Value,2.84669174863628,0.2105282236012942,Use low-cost retention strategies and remarketing.
+NC-18625,1821.742,-359.021,5,204,364.3484,High Value,-0.943721043200966,0.3100643568266595,"Offer loyalty rewards, early access, and exclusive services."
+ND-18370,4326.139,353.6455,9,27,480.6821111111111,Low Value,0.7876125211321429,-1.0369578819076264,Use low-cost retention strategies and remarketing.
+ND-18460,2893.455,443.3368,6,183,482.2425,High Value,-0.0017608848804025,0.2397237412536799,"Offer loyalty rewards, early access, and exclusive services."
+NF-18385,8322.826,-1695.9714,7,79,1188.9751428571428,Low Value,1.3039229072341656,0.0257597693116539,Use low-cost retention strategies and remarketing.
+NF-18475,377.162,85.92779999999999,4,525,94.2905,Medium Value,-1.8001767993015827,1.5213655074844323,Upsell and cross-sell through bundles and promos.
+NF-18595,2031.472,388.2131,7,114,290.2102857142857,High Value,-0.2928237605703033,-0.4472313366731281,"Offer loyalty rewards, early access, and exclusive services."
+NG-18355,1869.58,313.6335,5,48,373.916,High Value,-0.4452931195342857,-0.1433607958121079,"Offer loyalty rewards, early access, and exclusive services."
+NG-18430,1395.938,217.0893,5,48,279.1876,High Value,-0.7238724623028218,-0.2503037128040535,"Offer loyalty rewards, early access, and exclusive services."
+NH-18610,2673.29,760.1666,7,189,381.8985714285714,High Value,0.0945065605893414,-0.0244165346215905,"Offer loyalty rewards, early access, and exclusive services."
+NK-18490,572.048,121.2177,7,70,81.72114285714285,High Value,-0.994273609066808,-0.860997893499812,"Offer loyalty rewards, early access, and exclusive services."
+NL-18310,1418.09,343.6381,4,58,354.52250000000004,High Value,-0.6897220438449694,0.1136593969580744,"Offer loyalty rewards, early access, and exclusive services."
+NM-18445,6459.344,2751.6849,7,160,922.7634285714286,Low Value,2.6926146506929114,0.7288410410794427,Use low-cost retention strategies and remarketing.
+NM-18520,2161.979,788.9525000000001,10,244,216.1979,Low Value,0.0904152965584161,-0.7054644495475358,Use low-cost retention strategies and remarketing.
+NP-18325,5529.62,1208.889,6,25,921.6033333333334,Low Value,1.6940550505569625,0.2223778913190622,Use low-cost retention strategies and remarketing.
+NP-18670,3908.402,514.6002,5,58,781.6804,High Value,0.637273014650284,0.3203627051731067,"Offer loyalty rewards, early access, and exclusive services."
+NP-18685,1228.698,514.5017,6,406,204.783,Medium Value,-0.9026004454096308,0.7826004419189848,Upsell and cross-sell through bundles and promos.
+NP-18700,7903.1825,631.2282,7,138,1129.0260714285714,Low Value,2.2465705157338,0.5350729970090207,Use low-cost retention strategies and remarketing.
+NR-18550,2367.277,-25.14879999999997,5,210,473.4554,High Value,-0.5162984915269816,0.4891264639626861,"Offer loyalty rewards, early access, and exclusive services."
+NS-18505,2575.863,-12.303999999999997,4,6,643.96575,High Value,-0.1888720509209424,0.1448093404685177,"Offer loyalty rewards, early access, and exclusive services."
+NS-18640,2964.823,-234.7714,13,174,228.0633076923077,Low Value,0.2009455496418109,-1.8177712045809291,Use low-cost retention strategies and remarketing.
+NW-18400,7234.014,1023.123,7,172,1033.4305714285715,Low Value,2.1355719807227347,0.6206656470658597,Use low-cost retention strategies and remarketing.
+NZ-18565,2488.31,402.4236,9,85,276.4788888888889,High Value,0.0697938437754432,-1.0382292356314582,"Offer loyalty rewards, early access, and exclusive services."
+ON-18715,1567.52,-5.88900000000001,9,410,174.1688888888889,High Value,-0.7677443785775594,-0.0318008844281642,"Offer loyalty rewards, early access, and exclusive services."
+OT-18730,3818.624,-925.1203,5,65,763.7248,High Value,-0.1356197340803924,0.1076502915642847,"Offer loyalty rewards, early access, and exclusive services."
+PA-19060,729.408,225.8588,6,103,121.568,High Value,-1.002834582691598,-0.4436551323201882,"Offer loyalty rewards, early access, and exclusive services."
+PB-18805,740.356,229.2257,3,25,246.7853333333333,High Value,-1.131901014120971,0.1120500447704141,"Offer loyalty rewards, early access, and exclusive services."
+PB-19105,688.324,218.1597,4,57,172.081,High Value,-1.1513898705609409,-0.0820951552174325,"Offer loyalty rewards, early access, and exclusive services."
+PB-19150,1456.95,280.6606,8,97,182.11875,High Value,-0.4837261176933709,-0.8752767966557232,"Offer loyalty rewards, early access, and exclusive services."
+PB-19210,132.738,21.897,2,688,66.369,Medium Value,-2.3063971666327374,2.5607758811453385,Upsell and cross-sell through bundles and promos.
+PC-18745,1832.064,272.685,4,2,458.016,High Value,-0.44941913177873,-0.0022474620602464,"Offer loyalty rewards, early access, and exclusive services."
+PC-19000,1061.488,-184.3364,2,882,530.744,Medium Value,-1.7858677482397862,3.649617549412821,Upsell and cross-sell through bundles and promos.
+PF-19120,9062.864,-614.2943000000001,4,835,2265.716,Medium Value,2.330372224120717,4.596274410336083,Upsell and cross-sell through bundles and promos.
+PF-19165,2770.0,196.8739,6,196,461.6666666666667,High Value,-0.1918908470365119,0.2285739193066672,"Offer loyalty rewards, early access, and exclusive services."
+PF-19225,2206.128,591.3118000000001,5,114,441.22559999999993,High Value,-0.2004407472003951,0.2040523165975934,"Offer loyalty rewards, early access, and exclusive services."
+PG-18820,3086.907,137.46130000000002,13,36,237.45438461538464,Low Value,0.5501668680202879,-2.250237754705305,Use low-cost retention strategies and remarketing.
+PG-18895,1987.164,334.5163,9,57,220.796,High Value,-0.1281568365806635,-1.209941317769157,"Offer loyalty rewards, early access, and exclusive services."
+PH-18790,729.648,47.8878,1,70,729.648,High Value,-0.90714245411585,1.1442060959527518,"Offer loyalty rewards, early access, and exclusive services."
+PJ-18835,1220.09,442.1355,8,39,152.51125,High Value,-0.4447088105204435,-1.0919255441622333,"Offer loyalty rewards, early access, and exclusive services."
+PJ-19015,1824.234,682.9979000000001,7,134,260.6048571428572,High Value,-0.2484361941574237,-0.3597985565377505,"Offer loyalty rewards, early access, and exclusive services."
+PK-18910,1441.152,-798.705,2,483,720.576,Medium Value,-1.4182180822400343,2.278670170878572,Upsell and cross-sell through bundles and promos.
+PK-19075,8646.934,2038.2676,12,9,720.5778333333333,Low Value,3.334948216232121,-1.2641905775146196,Use low-cost retention strategies and remarketing.
+PL-18925,239.481,-0.7527000000000026,5,15,47.8962,High Value,-1.3660246576090496,-0.6283696052038553,"Offer loyalty rewards, early access, and exclusive services."
+PM-18940,1405.402,157.8768,3,386,468.4673333333333,Medium Value,-1.0530917962643256,1.6150003512317486,Upsell and cross-sell through bundles and promos.
+PM-19135,4115.662,526.7537,4,51,1028.9155,High Value,0.8852530443308658,0.7554485305822142,"Offer loyalty rewards, early access, and exclusive services."
+PN-18775,1467.152,192.0396,8,30,183.394,High Value,-0.4652392896125484,-1.130531921855651,"Offer loyalty rewards, early access, and exclusive services."
+PO-18850,7473.8282,38.47569999999996,11,4,679.4389272727273,Low Value,1.884905233730198,-1.4091545293080092,Use low-cost retention strategies and remarketing.
+PO-18865,2493.214,437.8533,7,0,356.1734285714286,High Value,0.0242295747502952,-0.7856317034067479,"Offer loyalty rewards, early access, and exclusive services."
+PO-19180,4893.043,1155.4331,9,160,543.6714444444444,Low Value,1.2864564502768396,-0.3641024006830274,Use low-cost retention strategies and remarketing.
+PO-19195,1056.858,-49.70089999999999,5,86,211.3716,High Value,-1.056046146950853,-0.2193305405036437,"Offer loyalty rewards, early access, and exclusive services."
+PP-18955,7252.608,1495.0854,10,97,725.2608,Low Value,2.419435080084473,-0.5714290549515857,Use low-cost retention strategies and remarketing.
+PR-18880,1840.178,247.6226,5,36,368.0356,High Value,-0.4821663752495204,-0.2027213357149899,"Offer loyalty rewards, early access, and exclusive services."
+PS-18760,2181.479,-134.441,6,107,363.5798333333333,High Value,-0.5416375857887594,-0.2428777817181271,"Offer loyalty rewards, early access, and exclusive services."
+PS-18970,1278.639,198.5099,8,69,159.829875,High Value,-0.5704592444768577,-1.012780586804419,"Offer loyalty rewards, early access, and exclusive services."
+PS-19045,6843.634,1742.7297,7,236,977.662,Low Value,2.278537443958045,0.9060288122182548,Use low-cost retention strategies and remarketing.
+PT-19090,160.572,-20.0508,4,71,40.143,High Value,-1.5722878808942211,-0.1928587060899674,"Offer loyalty rewards, early access, and exclusive services."
+PV-18985,2876.046,434.5284,5,89,575.2092,High Value,0.0682595518680916,0.2196833268416038,"Offer loyalty rewards, early access, and exclusive services."
+PW-19030,3454.916,803.8169,10,46,345.4916,Low Value,0.740781862173353,-1.2793615545411856,Use low-cost retention strategies and remarketing.
+PW-19240,3922.415,1290.354,7,464,560.345,Medium Value,0.6374437862305261,1.2367956274979677,Upsell and cross-sell through bundles and promos.
+QJ-19255,6108.338,1203.6768,9,25,678.7042222222221,Low Value,1.8866437144496864,-0.7014644561833724,Use low-cost retention strategies and remarketing.
+RA-19285,2617.906,546.0882,9,5,290.8784444444444,High Value,0.261126351616944,-1.290923620679319,"Offer loyalty rewards, early access, and exclusive services."
+RA-19885,3832.314,1292.8656,7,43,547.4734285714286,Low Value,0.9719290181097144,-0.3029619619793248,Use low-cost retention strategies and remarketing.
+RA-19915,4793.543,304.8673,9,12,532.6158888888889,Low Value,0.9521217685910608,-1.0431125059213324,Use low-cost retention strategies and remarketing.
+RA-19945,1686.9225,-445.695,5,61,337.3845,High Value,-0.9268526188651915,-0.2481117831931758,"Offer loyalty rewards, early access, and exclusive services."
+RB-19330,1008.196,-164.40619999999998,2,68,504.098,High Value,-1.1048366841006858,0.6763594234937493,"Offer loyalty rewards, early access, and exclusive services."
+RB-19360,15117.339,6976.0959,6,96,2519.5565,At Risk,8.79150964027329,2.958185438532078,"Send re-engagement emails, discounts, and check-in calls."
+RB-19435,2663.086,477.2399,8,19,332.88575000000003,High Value,0.158004062762883,-0.9700623093229436,"Offer loyalty rewards, early access, and exclusive services."
+RB-19465,4715.466,640.5466,12,9,392.9555,Low Value,1.2889240960038415,-1.8545702064503016,Use low-cost retention strategies and remarketing.
+RB-19570,528.546,76.8879,5,25,105.7092,High Value,-1.1954087194755454,-0.5239631072434827,"Offer loyalty rewards, early access, and exclusive services."
+RB-19645,221.084,72.679,5,648,44.2168,Medium Value,-1.895363056385408,1.6752095541759362,Upsell and cross-sell through bundles and promos.
+RB-19705,2067.45,243.0755,4,54,516.8625,High Value,-0.3812040267025248,0.2375883649187337,"Offer loyalty rewards, early access, and exclusive services."
+RB-19795,5633.316000000001,-461.7332,8,32,704.1645000000001,Low Value,0.8430230470031262,-0.6777246930588481,Use low-cost retention strategies and remarketing.
+RC-19825,966.409,63.991400000000006,6,369,161.06816666666666,Medium Value,-1.2129309348736703,0.5357409352806913,Upsell and cross-sell through bundles and promos.
+RC-19960,885.752,10.563300000000002,6,110,147.62533333333332,High Value,-1.0476115304032805,-0.4252591332204927,"Offer loyalty rewards, early access, and exclusive services."
+RD-19480,4272.93,480.594,8,72,534.11625,Low Value,0.7461166538848918,-0.5664360418168504,Use low-cost retention strategies and remarketing.
+RD-19585,2912.894,734.5158,10,180,291.2894,Low Value,0.3915640874639023,-0.8634794471950172,Use low-cost retention strategies and remarketing.
+RD-19660,2786.632,835.772,5,114,557.3264,High Value,0.2043433118099057,0.3544532909418628,"Offer loyalty rewards, early access, and exclusive services."
+RD-19720,1419.737,207.3304,10,21,141.9737,High Value,-0.2743881679666353,-1.684927555453833,"Offer loyalty rewards, early access, and exclusive services."
+RD-19810,1137.616,318.4625,8,14,142.202,High Value,-0.5172492478768513,-1.2123574194674505,"Offer loyalty rewards, early access, and exclusive services."
+RD-19900,3133.924,455.5292,9,114,348.2137777777777,Low Value,0.3137680164241408,-0.8479343798628384,Use low-cost retention strategies and remarketing.
+RD-19930,970.942,35.05740000000001,4,42,242.73550000000003,High Value,-1.075424519180645,-0.0976020339478827,"Offer loyalty rewards, early access, and exclusive services."
+RE-19405,48.36,6.045,1,1097,48.36,Medium Value,-2.835664961293006,4.268325561621271,Upsell and cross-sell through bundles and promos.
+RE-19450,876.696,209.2294,5,302,175.3392,High Value,-1.2036785449323435,0.5687361999913177,"Offer loyalty rewards, early access, and exclusive services."
+RF-19345,3309.15,633.7072000000001,8,390,413.64375,Low Value,0.1640406004539839,0.4841718774380297,Use low-cost retention strategies and remarketing.
+RF-19735,2341.2960000000003,711.6168,7,89,334.4708571428572,High Value,0.0202862876516208,-0.4430721475284585,"Offer loyalty rewards, early access, and exclusive services."
+RF-19840,945.222,280.0261,8,6,118.15275,High Value,-0.6051723147935542,-1.2724664018126255,"Offer loyalty rewards, early access, and exclusive services."
+RH-19495,3621.376,563.7877,5,32,724.2751999999999,High Value,0.5454347012815041,0.1777567712112775,"Offer loyalty rewards, early access, and exclusive services."
+RH-19510,6979.18,1289.4535,6,467,1163.1966666666667,Low Value,1.9899565667339287,2.078935185283925,Use low-cost retention strategies and remarketing.
+RH-19555,740.382,0.3057000000000016,2,519,370.191,Medium Value,-1.6483806620178534,2.2171987298042404,Upsell and cross-sell through bundles and promos.
+RH-19600,2085.74,172.6261,3,534,695.2466666666668,Medium Value,-0.7335727951595474,2.363292299162273,Upsell and cross-sell through bundles and promos.
+RK-19300,1460.192,269.688,3,119,486.73066666666665,High Value,-0.7262419611556703,0.6805705636633683,"Offer loyalty rewards, early access, and exclusive services."
+RL-19615,6234.91,488.1484,8,121,779.36375,Low Value,1.4783416735588673,-0.1305464306590965,Use low-cost retention strategies and remarketing.
+RM-19375,1453.474,392.1499,6,345,242.24566666666664,Medium Value,-0.8103999108586842,0.5799829180601684,Upsell and cross-sell through bundles and promos.
+RM-19675,5979.0960000000005,1902.5438,5,6,1195.8192,Low Value,2.3860795481320736,0.747314114395839,Use low-cost retention strategies and remarketing.
+RM-19750,98.35,28.6879,1,299,98.35,Medium Value,-2.0481238543950298,1.4210478788324654,Upsell and cross-sell through bundles and promos.
+RO-19780,3815.478,-1262.5716000000002,7,35,545.0682857142857,High Value,-0.3115191426587727,-0.7260554909388119,"Offer loyalty rewards, early access, and exclusive services."
+RP-19270,954.6452,59.5384,4,496,238.6613,Medium Value,-1.4717451877949408,1.5489566141297746,Upsell and cross-sell through bundles and promos.
+RP-19390,5153.084,465.25030000000015,12,33,429.4236666666666,Low Value,1.3293531593407897,-1.7525122940510425,Use low-cost retention strategies and remarketing.
+RP-19855,2170.716,594.5868,8,28,271.3395,High Value,0.0153897543266373,-0.9839334327081138,"Offer loyalty rewards, early access, and exclusive services."
+RR-19315,615.932,-73.835,2,19,307.966,High Value,-1.3519419395141197,0.3364750407184699,"Offer loyalty rewards, early access, and exclusive services."
+RR-19525,3302.262,721.6826,6,170,550.377,High Value,0.3312683720471239,0.3032146505955631,"Offer loyalty rewards, early access, and exclusive services."
+RS-19420,3221.29,633.4513999999999,5,76,644.258,High Value,0.3473308865673004,0.2701843689976938,"Offer loyalty rewards, early access, and exclusive services."
+RS-19765,4159.77,1206.3851,8,36,519.9712499999999,Low Value,1.0978465207875463,-0.6006056657528587,Use low-cost retention strategies and remarketing.
+RS-19870,22.328,9.5838,2,19,11.164,High Value,-1.8181031737489728,0.0828612981263006,"Offer loyalty rewards, early access, and exclusive services."
+RW-19540,7397.401,1586.6273,7,120,1056.7715714285714,Low Value,2.5322319438697702,0.5422919525888296,Use low-cost retention strategies and remarketing.
+RW-19630,3279.746,698.8325,9,89,364.4162222222223,Low Value,0.5128271535118922,-0.8839385234815351,Use low-cost retention strategies and remarketing.
+RW-19690,3495.646,707.5503,5,79,699.1292000000001,High Value,0.5151852216603011,0.3457972967601931,"Offer loyalty rewards, early access, and exclusive services."
+SA-20830,4767.3415,610.1496000000001,10,63,476.73415000000006,Low Value,1.1041911894473404,-1.1032660888750785,Use low-cost retention strategies and remarketing.
+SB-20170,1348.02,157.6658,3,201,449.34,High Value,-0.9276408241943678,0.9263215573720044,"Offer loyalty rewards, early access, and exclusive services."
+SB-20185,6410.996,885.4623999999999,6,188,1068.4993333333334,Low Value,1.7800234953135747,0.9105938694281424,Use low-cost retention strategies and remarketing.
+SB-20290,8057.891,-2082.7451,7,47,1151.1272857142856,Low Value,1.027808399138476,-0.188291560771239,Use low-cost retention strategies and remarketing.
+SC-20020,3362.9636,-317.0508,5,781,672.59272,Medium Value,-0.6819183211729117,2.709134629409145,Upsell and cross-sell through bundles and promos.
+SC-20050,4624.572,1011.7443,9,40,513.8413333333333,Low Value,1.2189541393855226,-0.8533734220456828,Use low-cost retention strategies and remarketing.
+SC-20095,14142.334,5757.411899999999,9,349,1571.3704444444445,At Risk,6.910364955014309,2.129391499207018,"Send re-engagement emails, discounts, and check-in calls."
+SC-20230,4371.9580000000005,440.141,4,149,1092.9895,Low Value,0.8957875173975597,1.1583457695957058,Use low-cost retention strategies and remarketing.
+SC-20260,3729.793,671.0033999999999,8,187,466.224125,Low Value,0.5269134593726988,-0.1912962709329001,Use low-cost retention strategies and remarketing.
+SC-20305,3979.065,229.1617,7,29,568.4378571428572,High Value,0.5109404953739056,-0.4953071511740047,"Offer loyalty rewards, early access, and exclusive services."
+SC-20380,5992.536,236.6615,9,30,665.8373333333334,Low Value,1.352990425743328,-0.845329490380724,Use low-cost retention strategies and remarketing.
+SC-20440,1874.998,379.5611,7,36,267.8568571428572,High Value,-0.2934815288050079,-0.7543300103351155,"Offer loyalty rewards, early access, and exclusive services."
+SC-20575,902.728,100.2253,5,92,180.5456,High Value,-1.060900455405237,-0.2045786157760015,"Offer loyalty rewards, early access, and exclusive services."
+SC-20680,1254.64,370.1578,6,126,209.10666666666668,High Value,-0.71705581126743,-0.2507720078915968,"Offer loyalty rewards, early access, and exclusive services."
+SC-20695,2576.408,611.8291,10,89,257.6408,Low Value,0.2881093467510258,-1.2492890122134226,Use low-cost retention strategies and remarketing.
+SC-20725,5226.21,1276.6513,11,187,475.11,Low Value,1.5563122145659989,-0.7851527194734086,Use low-cost retention strategies and remarketing.
+SC-20770,4492.657,-671.1874,7,41,641.8081428571429,High Value,0.2614545329763039,-0.5147105812891802,"Offer loyalty rewards, early access, and exclusive services."
+SC-20800,279.25600000000003,51.8252,4,30,69.81400000000001,High Value,-1.4351155673065474,-0.3024327823456056,"Offer loyalty rewards, early access, and exclusive services."
+SC-20845,280.632,31.1757,2,131,140.316,High Value,-1.6847817944626962,0.6083183549339197,"Offer loyalty rewards, early access, and exclusive services."
+SD-20485,6121.114,1985.1672,9,200,680.1237777777777,Low Value,2.1298948817978465,0.0545499335678114,Use low-cost retention strategies and remarketing.
+SE-20110,12209.438000000002,2650.6769,11,9,1109.9489090909092,Low Value,4.855675939649259,-0.5071762234851005,Use low-cost retention strategies and remarketing.
+SF-20065,763.5459999999999,228.1623,7,59,109.078,High Value,-0.8513478340605397,-0.8565230434256486,"Offer loyalty rewards, early access, and exclusive services."
+SF-20200,3422.786,286.9046,9,59,380.3095555555555,Low Value,0.3861439927651975,-1.0388227207773866,Use low-cost retention strategies and remarketing.
+SF-20965,3336.535,539.9352,9,48,370.7261111111111,Low Value,0.4904746496510537,-1.0502265924102536,Use low-cost retention strategies and remarketing.
+SG-20080,3406.581,570.438,3,8,1135.5269999999998,High Value,0.7882272811605159,0.9226565653682152,"Offer loyalty rewards, early access, and exclusive services."
+SG-20470,1884.798,-119.0105,8,183,235.59975,High Value,-0.5919230579974062,-0.568556359131122,"Offer loyalty rewards, early access, and exclusive services."
+SG-20605,3124.832,463.269,6,108,520.8053333333334,High Value,0.1771641268816574,0.0092305009546082,"Offer loyalty rewards, early access, and exclusive services."
+SG-20890,47.946,-3.7073,3,226,15.982,High Value,-1.8761097399512356,0.5924398335261504,"Offer loyalty rewards, early access, and exclusive services."
+SH-19975,3406.8395,558.4739999999999,13,29,262.0645769230769,Low Value,0.874629540985518,-2.1822326479922527,Use low-cost retention strategies and remarketing.
+SH-20395,2180.718,-144.5229,10,23,218.0718,High Value,-0.1770777463280602,-1.6480324368494896,"Offer loyalty rewards, early access, and exclusive services."
+SH-20635,2096.392,260.6258,2,765,1048.196,Medium Value,-0.5736117835938415,3.757889927144668,Upsell and cross-sell through bundles and promos.
+SJ-20125,3949.656,144.1189,12,95,329.138,Low Value,0.7020763072422452,-1.69199935540771,Use low-cost retention strategies and remarketing.
+SJ-20215,1341.036,-23.5137,6,29,223.506,High Value,-0.7909676393876972,-0.6485547901201204,"Offer loyalty rewards, early access, and exclusive services."
+SJ-20500,1318.776,68.09629999999999,5,253,263.7552,High Value,-1.0166690688229394,0.4553908924920298,"Offer loyalty rewards, early access, and exclusive services."
+SK-19990,883.409,168.7933,3,8,294.4696666666667,High Value,-1.0542633675367392,0.085124262712906,"Offer loyalty rewards, early access, and exclusive services."
+SL-20155,3053.012,527.9715,7,70,436.14457142857145,High Value,0.240344476489846,-0.4361281934496782,"Offer loyalty rewards, early access, and exclusive services."
+SM-20005,244.494,-26.5927,4,421,61.12349999999999,Medium Value,-1.8377633870913117,1.095479533749908,Upsell and cross-sell through bundles and promos.
+SM-20320,25043.05,-1980.7393,5,79,5008.61,At Risk,9.632395013914566,4.125895564991252,"Send re-engagement emails, discounts, and check-in calls."
+SM-20905,1043.041,-237.2885,1,606,1043.041,Medium Value,-1.0607192610853249,3.3180207127177552,Upsell and cross-sell through bundles and promos.
+SM-20950,5563.392,581.5741999999999,12,25,463.616,Low Value,1.5350881879734295,-1.7244418498411629,Use low-cost retention strategies and remarketing.
+SN-20560,1860.418,-716.8565000000001,6,111,310.06966666666665,High Value,-0.9804486118752306,-0.3710176651007117,"Offer loyalty rewards, early access, and exclusive services."
+SN-20710,3127.9592,481.7499,7,79,446.85131428571424,High Value,0.2403305240891163,-0.3996165973455885,"Offer loyalty rewards, early access, and exclusive services."
+SO-20335,2602.5755,-81.0858,6,29,433.7625833333333,High Value,-0.2589229081829289,-0.4475790162240528,"Offer loyalty rewards, early access, and exclusive services."
+SP-20545,1306.086,-118.7757,6,327,217.681,High Value,-1.11670970195161,0.4118867273363625,"Offer loyalty rewards, early access, and exclusive services."
+SP-20620,5440.319,-270.42819999999995,9,47,604.4798888888889,Low Value,0.875628600526098,-0.9272185646520646,Use low-cost retention strategies and remarketing.
+SP-20650,1872.436,268.4782,9,386,208.04844444444447,High Value,-0.4941239710660695,-0.0404496415269845,"Offer loyalty rewards, early access, and exclusive services."
+SP-20860,4282.94,566.7226,10,79,428.294,Low Value,0.8927371099593432,-1.105080210170038,Use low-cost retention strategies and remarketing.
+SP-20920,3990.689,14.692400000000005,6,70,665.1148333333333,High Value,0.3703309965463859,-0.0533448989478531,"Offer loyalty rewards, early access, and exclusive services."
+SR-20425,3233.481,-3333.9144,5,8,646.6962000000001,High Value,-1.5795384591895347,-0.5820745982680399,"Offer loyalty rewards, early access, and exclusive services."
+SR-20740,4345.886,1990.4244,8,196,543.2357499999999,Low Value,1.4239703842044171,0.1242508979227444,Use low-cost retention strategies and remarketing.
+SS-20140,1324.028,332.3487,8,15,165.5035,High Value,-0.4378466116454146,-1.1821834825351605,"Offer loyalty rewards, early access, and exclusive services."
+SS-20410,3056.807,-1010.9738,6,110,509.4678333333334,High Value,-0.5953012714758303,-0.2207538986300654,"Offer loyalty rewards, early access, and exclusive services."
+SS-20515,613.4,199.9345,3,491,204.46666666666667,Medium Value,-1.6394285407187024,1.7587092518440697,Upsell and cross-sell through bundles and promos.
+SS-20590,418.49,135.5401,6,432,69.74833333333333,Medium Value,-1.4760987253418816,0.6840871408944886,Upsell and cross-sell through bundles and promos.
+SS-20875,964.636,-75.586,5,120,192.9272,High Value,-1.143780517954699,-0.1179205504592704,"Offer loyalty rewards, early access, and exclusive services."
+ST-20530,433.34,84.4419,7,125,61.90571428571429,High Value,-1.118769975375478,-0.687416467299796,"Offer loyalty rewards, early access, and exclusive services."
+SU-20665,2595.364,763.4719,7,20,370.76628571428574,High Value,0.2125897222382637,-0.6482638181477872,"Offer loyalty rewards, early access, and exclusive services."
+SV-20365,11470.95,1199.4242,10,101,1147.0949999999998,Low Value,3.796220375680248,-0.1390212870094988,Use low-cost retention strategies and remarketing.
+SV-20785,4105.305,485.0272,9,320,456.145,Low Value,0.5125864669259765,0.0195648944291691,Use low-cost retention strategies and remarketing.
+SV-20815,1271.09,199.6502,4,76,317.77250000000004,High Value,-0.8583667608588671,0.1220522130425208,"Offer loyalty rewards, early access, and exclusive services."
+SV-20935,1903.491,106.8912,8,2,237.936375,High Value,-0.3117603772755499,-1.187979575231855,"Offer loyalty rewards, early access, and exclusive services."
+SW-20245,1085.078,-19.60620000000001,7,81,155.01114285714286,High Value,-0.8616318140609459,-0.7677142989152551,"Offer loyalty rewards, early access, and exclusive services."
+SW-20275,1966.65,332.8725,6,30,327.77500000000003,High Value,-0.3346607882728767,-0.4862701947454991,"Offer loyalty rewards, early access, and exclusive services."
+SW-20350,1019.044,95.8383,3,162,339.6813333333333,High Value,-1.1382848401033212,0.674218850688813,"Offer loyalty rewards, early access, and exclusive services."
+SW-20455,2921.544,793.6548,7,162,417.3634285714285,High Value,0.2381943502807665,-0.0809375580425981,"Offer loyalty rewards, early access, and exclusive services."
+SW-20755,758.6959999999999,68.2416,2,534,379.348,Medium Value,-1.6117900393242224,2.290234098631444,Upsell and cross-sell through bundles and promos.
+SZ-20035,3625.329,366.4303000000001,11,35,329.57536363636365,Low Value,0.6707260484064335,-1.6394073147945067,Use low-cost retention strategies and remarketing.
+TA-21385,14595.62,4703.7883,4,69,3648.905,At Risk,8.704837544448427,3.94379970904064,"Send re-engagement emails, discounts, and check-in calls."
+TB-21055,1467.881,390.2113,5,119,293.57620000000003,High Value,-0.6644781968063609,0.0477421646495638,"Offer loyalty rewards, early access, and exclusive services."
+TB-21175,3589.296,829.1635,4,58,897.324,High Value,0.7428096375476463,0.7024735012438745,"Offer loyalty rewards, early access, and exclusive services."
+TB-21190,816.1740000000001,179.0038,4,49,204.0435,High Value,-1.0940192531100583,-0.0868213499943867,"Offer loyalty rewards, early access, and exclusive services."
+TB-21250,1602.376,260.6155,7,349,228.91085714285717,High Value,-0.7420010879585277,0.3228623013566731,"Offer loyalty rewards, early access, and exclusive services."
+TB-21280,2198.45,490.9567,6,583,366.4083333333333,Medium Value,-0.6390405902137577,1.582248414915348,Upsell and cross-sell through bundles and promos.
+TB-21355,834.328,268.967,5,146,166.8656,High Value,-1.0569164348191302,0.0038327012077011,"Offer loyalty rewards, early access, and exclusive services."
+TB-21400,9133.99,2798.3689,7,202,1304.8557142857142,Low Value,3.7898414700975542,1.279167604616642,Use low-cost retention strategies and remarketing.
+TB-21520,4737.486,-1603.0451,9,107,526.3873333333333,High Value,-0.1108714637180163,-0.997613652817509,"Offer loyalty rewards, early access, and exclusive services."
+TB-21595,1387.559,-136.4091,5,285,277.5118,High Value,-1.114142848194802,0.553497255845198,"Offer loyalty rewards, early access, and exclusive services."
+TB-21625,2797.668,379.882,9,30,310.85200000000003,High Value,0.2232508671045004,-1.204286941430795,"Offer loyalty rewards, early access, and exclusive services."
+TC-20980,19052.218,8981.323900000001,5,399,3810.4436,At Risk,11.946236775108137,5.800939447203603,"Send re-engagement emails, discounts, and check-in calls."
+TC-21145,1038.26,265.5332,1,106,1038.26,High Value,-0.3750198394475684,1.5773949668501648,"Offer loyalty rewards, early access, and exclusive services."
+TC-21295,4266.812,606.3727,8,27,533.3515,Low Value,0.846501866240931,-0.7111780509518372,Use low-cost retention strategies and remarketing.
+TC-21475,1244.976,119.104,9,153,138.33066666666667,High Value,-0.6000235964327959,-0.9832456441519908,"Offer loyalty rewards, early access, and exclusive services."
+TC-21535,742.5580000000001,217.933,7,4,106.0797142857143,High Value,-0.8167805994135434,-1.0606437955640693,"Offer loyalty rewards, early access, and exclusive services."
+TD-20995,1434.5480000000002,88.1897,9,37,159.39422222222225,High Value,-0.4421230744793525,-1.3861162028702898,"Offer loyalty rewards, early access, and exclusive services."
+TG-21310,3058.372,682.1704,5,337,611.6744,Medium Value,0.062876908312645,1.1926073614495931,Upsell and cross-sell through bundles and promos.
+TG-21640,2074.661,365.7205,4,114,518.66525,High Value,-0.3684793428585878,0.4757133169619034,"Offer loyalty rewards, early access, and exclusive services."
+TH-21100,2422.824,-135.2125,5,344,484.5648,Medium Value,-0.662566860538688,0.9690870627651008,Upsell and cross-sell through bundles and promos.
+TH-21115,2942.772,-252.5539,4,58,735.693,High Value,-0.1544487208574842,0.3835256081548311,"Offer loyalty rewards, early access, and exclusive services."
+TH-21235,1022.201,92.729,8,117,127.775125,High Value,-0.7666944202537344,-0.8884861661952727,"Offer loyalty rewards, early access, and exclusive services."
+TH-21550,4234.0960000000005,-571.9678,7,72,604.8708571428572,High Value,0.1766189113050935,-0.4248503139602964,"Offer loyalty rewards, early access, and exclusive services."
+TM-21010,2955.226,573.3013,8,103,369.40325,High Value,0.2471869478490883,-0.6124025555130059,"Offer loyalty rewards, early access, and exclusive services."
+TM-21490,1094.678,292.521,3,130,364.8926666666666,High Value,-0.9621432400871932,0.611556104984796,"Offer loyalty rewards, early access, and exclusive services."
+TN-21040,3130.221,-692.0452,7,90,447.17442857142856,High Value,-0.3579672608594755,-0.5392712946683389,"Offer loyalty rewards, early access, and exclusive services."
+TP-21130,4454.0560000000005,1129.1261,9,8,494.8951111111112,Low Value,1.2419473299794093,-0.9717791794310164,Use low-cost retention strategies and remarketing.
+TP-21415,5329.0048,-1087.3898,5,104,1065.80096,High Value,0.4822659026697687,0.5180830890846518,"Offer loyalty rewards, early access, and exclusive services."
+TP-21565,1936.64,139.22869999999995,4,350,484.16,Medium Value,-0.7655707194577492,1.2642806817026593,Upsell and cross-sell through bundles and promos.
+TR-21325,675.9419999999999,220.3644,5,193,135.18839999999997,High Value,-1.1996475158325537,0.1360402636855269,"Offer loyalty rewards, early access, and exclusive services."
+TS-21085,4.833,-3.3156,2,357,2.4165,Medium Value,-2.137125779049175,1.2989665615963757,Upsell and cross-sell through bundles and promos.
+TS-21160,2163.6240000000003,260.87440000000004,6,504,360.604,Medium Value,-0.7005377155111279,1.2546621858489235,Upsell and cross-sell through bundles and promos.
+TS-21205,5371.09,862.8877,7,198,767.2985714285714,Low Value,1.2585470200038986,0.4181893243730643,Use low-cost retention strategies and remarketing.
+TS-21340,974.782,-184.9789,5,226,194.9564,High Value,-1.287116393774535,0.2517534052609155,"Offer loyalty rewards, early access, and exclusive services."
+TS-21370,11891.751,2371.7144000000003,6,36,1981.9585,At Risk,5.097423718984888,1.4985220703662403,"Send re-engagement emails, discounts, and check-in calls."
+TS-21430,2054.14,48.70169999999999,5,172,410.828,High Value,-0.59786926883036,0.3016959061526003,"Offer loyalty rewards, early access, and exclusive services."
+TS-21505,2243.274,11.377899999999984,6,11,373.879,High Value,-0.3564033611462431,-0.5584486317413302,"Offer loyalty rewards, early access, and exclusive services."
+TS-21610,2820.424,-294.6981,7,55,402.9177142857143,High Value,-0.2562371773937924,-0.6505938190114217,"Offer loyalty rewards, early access, and exclusive services."
+TS-21655,3368.094,220.9163,5,238,673.6188,High Value,0.0688232250056169,0.8231024360016984,"Offer loyalty rewards, early access, and exclusive services."
+TT-21070,4915.602,751.9567,7,31,702.2288571428571,Low Value,1.1606948902335334,-0.2710823822772187,Use low-cost retention strategies and remarketing.
+TT-21220,1427.044,278.7371,8,183,178.38049999999998,High Value,-0.5721661343572411,-0.5675651762096682,"Offer loyalty rewards, early access, and exclusive services."
+TT-21265,439.5,93.9162,3,406,146.5,Medium Value,-1.7309279446293602,1.380683698308066,Upsell and cross-sell through bundles and promos.
+TT-21460,5364.808,1124.4999,7,12,766.4011428571429,Low Value,1.551087578450288,-0.2172630597261737,Use low-cost retention strategies and remarketing.
+TW-21025,5278.826,737.3905,7,64,754.118,Low Value,1.2751696678910864,-0.1005461520875037,Use low-cost retention strategies and remarketing.
+TZ-21580,1707.286,224.8887,4,35,426.8215,High Value,-0.5707903313285344,0.0805568102623732,"Offer loyalty rewards, early access, and exclusive services."
+VB-21745,2005.596,371.2398,6,54,334.266,High Value,-0.3192016933892652,-0.3868650668000194,"Offer loyalty rewards, early access, and exclusive services."
+VD-21670,6442.254,1617.7874000000002,6,581,1073.709,Low Value,1.815750848389928,2.45343966720358,Use low-cost retention strategies and remarketing.
+VF-21715,847.944,-96.278,5,13,169.5888,High Value,-1.1166595786607534,-0.5318855164392928,"Offer loyalty rewards, early access, and exclusive services."
+VG-21790,846.01,143.6268,6,154,141.0016666666667,High Value,-1.0371875160067527,-0.2518876040750352,"Offer loyalty rewards, early access, and exclusive services."
+VG-21805,427.372,-52.333,5,286,85.4744,High Value,-1.5392407801650192,0.3832032192520753,"Offer loyalty rewards, early access, and exclusive services."
+VM-21685,2454.866,513.5269,7,54,350.69514285714286,High Value,-0.0012287635082389,-0.5837793042769968,"Offer loyalty rewards, early access, and exclusive services."
+VM-21835,380.69,116.6373,5,117,76.138,High Value,-1.3282659032196733,-0.212951103686507,"Offer loyalty rewards, early access, and exclusive services."
+VP-21730,993.902,205.3888,3,30,331.30066666666664,High Value,-0.9834002777962108,0.2045081730192761,"Offer loyalty rewards, early access, and exclusive services."
+VP-21760,3360.526,-1018.7768,7,75,480.0751428571429,High Value,-0.4132229097742793,-0.6100940601708419,"Offer loyalty rewards, early access, and exclusive services."
+VS-21820,1055.981,-262.8093,4,221,263.99525,High Value,-1.336064184753329,0.5261349463109009,"Offer loyalty rewards, early access, and exclusive services."
+VT-21700,1736.596,-224.0889,2,1000,868.298,Medium Value,-1.3319015423671985,4.374489062322252,Upsell and cross-sell through bundles and promos.
+VW-21775,6134.0380000000005,-874.6645,10,28,613.4038,Low Value,0.8845551574403425,-1.3076827969077236,Use low-cost retention strategies and remarketing.
+WB-21850,6160.102,714.3311,11,20,560.0092727272727,Low Value,1.7488904132616114,-1.3816856298638518,Use low-cost retention strategies and remarketing.
+XP-21865,2374.658,621.23,11,43,215.878,Low Value,0.352419166766886,-1.6990425679540695,Use low-cost retention strategies and remarketing.
+YC-21895,5454.35,1305.629,5,4,1090.87,Low Value,1.833118128257132,0.5464937132430289,Use low-cost retention strategies and remarketing.
+YS-21880,6720.444,1778.2923,8,9,840.0554999999999,Low Value,2.4158766164492564,-0.2754580752149781,Use low-cost retention strategies and remarketing.
+ZC-21910,8025.707,-1032.149,13,54,617.362076923077,Low Value,1.5961777581945404,-1.9184542351425948,Use low-cost retention strategies and remarketing.
+ZD-21925,1493.944,249.1307,5,202,298.7888,High Value,-0.7957485008951407,0.3322351882548096,"Offer loyalty rewards, early access, and exclusive services."

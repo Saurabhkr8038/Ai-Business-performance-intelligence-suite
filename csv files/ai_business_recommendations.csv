@@ -1,0 +1,794 @@
+customer_id,segment,segment_strategy,churn_probability,churn_strategy
+AA-10315,Low Value,💰 High potential – low frequency but high order value,0.96,🚨 High churn risk – send personalized retention offer
+AA-10375,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AA-10480,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+AA-10645,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AB-10015,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+AB-10060,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AB-10105,At Risk,🚨 Immediate re-engagement – high churn risk,0.0,✅ Low churn risk – maintain engagement
+AB-10150,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+AB-10165,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AB-10255,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+AB-10600,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AC-10420,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+AC-10450,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AC-10615,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AC-10660,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+AD-10180,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AF-10870,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AF-10885,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+AG-10270,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+AG-10300,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+AG-10330,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+AG-10390,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AG-10495,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AG-10525,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+AG-10675,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AG-10765,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AG-10900,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AH-10030,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AH-10075,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AH-10120,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AH-10195,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AH-10210,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AH-10465,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+AH-10585,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AH-10690,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+AI-10855,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AJ-10780,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AJ-10795,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AJ-10945,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AJ-10960,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AM-10360,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AM-10705,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+AO-10810,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+AP-10720,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AP-10915,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AR-10345,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AR-10405,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AR-10510,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AR-10540,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+AR-10570,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+AR-10825,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AS-10045,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AS-10090,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AS-10135,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AS-10225,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AS-10240,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+AS-10285,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AS-10630,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AT-10435,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AT-10735,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+AW-10840,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AW-10930,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+AY-10555,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+AZ-10750,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BB-10990,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BB-11545,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BC-11125,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.91,🚨 High churn risk – send personalized retention offer
+BD-11320,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+BD-11500,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BD-11560,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+BD-11605,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BD-11620,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BD-11635,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+BD-11725,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BD-11770,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+BE-11335,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BE-11410,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BE-11455,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+BF-10975,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+BF-11005,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BF-11020,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BF-11080,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+BF-11170,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BF-11215,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BF-11275,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BG-11035,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BG-11695,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BG-11740,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BH-11710,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BK-11260,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BM-11140,At Risk,🚨 Immediate re-engagement – high churn risk,0.98,🚨 High churn risk – send personalized retention offer
+BM-11575,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BM-11650,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BM-11785,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+BN-11470,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BN-11515,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BO-11350,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BO-11425,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+BP-11050,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BP-11095,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BP-11155,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BP-11185,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BP-11230,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BP-11290,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BS-11365,At Risk,🚨 Immediate re-engagement – high churn risk,0.99,🚨 High churn risk – send personalized retention offer
+BS-11380,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BS-11590,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BS-11665,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+BS-11755,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BS-11800,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+BT-11305,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+BT-11395,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.96,🚨 High churn risk – send personalized retention offer
+BT-11440,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+BT-11485,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+BT-11530,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+BT-11680,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+BV-11245,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+BW-11065,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+BW-11110,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+BW-11200,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+CA-11965,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CA-12055,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+CA-12265,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CA-12310,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CA-12775,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CB-12025,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CB-12415,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CB-12535,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+CC-12100,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CC-12145,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CC-12220,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CC-12370,At Risk,🚨 Immediate re-engagement – high churn risk,0.05,✅ Low churn risk – maintain engagement
+CC-12430,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CC-12475,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CC-12550,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+CC-12610,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CC-12670,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CC-12685,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CD-11920,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CD-11980,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CD-12280,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CD-12790,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+CG-12040,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CG-12520,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CH-12070,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CJ-11875,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CJ-12010,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+CK-12205,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CK-12325,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CK-12595,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CK-12760,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+CL-11890,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CL-12565,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+CL-12700,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CM-11815,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+CM-11935,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+CM-12115,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CM-12160,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CM-12190,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CM-12235,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+CM-12385,At Risk,🚨 Immediate re-engagement – high churn risk,0.03,✅ Low churn risk – maintain engagement
+CM-12445,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.97,🚨 High churn risk – send personalized retention offer
+CM-12655,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+CM-12715,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CP-12085,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CP-12340,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CR-12580,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CR-12625,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+CR-12730,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CR-12820,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+CS-11845,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CS-11860,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+CS-11950,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CS-12130,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CS-12175,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.95,🚨 High churn risk – send personalized retention offer
+CS-12250,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CS-12355,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+CS-12400,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CS-12460,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+CS-12490,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+CS-12505,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CT-11995,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CV-12295,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+CV-12805,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CW-11905,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+CY-12745,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+Co-12640,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DA-13450,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.96,🚨 High churn risk – send personalized retention offer
+DB-12910,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DB-12970,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+DB-13060,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DB-13120,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DB-13210,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DB-13270,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DB-13360,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+DB-13405,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.97,🚨 High churn risk – send personalized retention offer
+DB-13555,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DB-13615,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DB-13660,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DC-12850,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DC-13285,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+DD-13570,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+DE-13255,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DF-13135,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+DG-13300,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DH-13075,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+DH-13675,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DJ-13420,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DJ-13510,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DJ-13630,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DK-12835,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DK-12895,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DK-12985,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DK-13090,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+DK-13150,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DK-13225,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DK-13375,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DL-12865,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DL-12925,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DL-13315,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DL-13330,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DL-13495,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DM-12955,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DM-13015,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DM-13345,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DM-13525,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DN-13690,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+DO-13435,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DO-13645,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DP-13000,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DP-13105,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DP-13165,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+DP-13390,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+DR-12880,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+DR-12940,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+DS-13030,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+DS-13180,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DV-13045,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DV-13465,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DW-13195,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DW-13480,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+DW-13540,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+DW-13585,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+Dl-13600,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+Dp-13240,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EA-14035,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EB-13705,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EB-13750,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EB-13840,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EB-13870,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EB-13930,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+EB-13975,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EB-14110,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EB-14170,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+EC-14050,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+ED-13885,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EG-13900,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EH-13765,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+EH-13945,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+EH-13990,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+EH-14005,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EH-14125,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EH-14185,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+EJ-13720,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+EJ-14155,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EK-13795,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EL-13735,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.04,✅ Low churn risk – maintain engagement
+EM-13810,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EM-13825,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EM-13960,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+EM-14065,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EM-14095,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+EM-14140,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+EM-14200,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+EN-13780,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+EP-13915,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ER-13855,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+ES-14020,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ES-14080,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FA-14230,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+FC-14245,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FC-14335,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+FG-14260,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+FH-14275,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FH-14350,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+FH-14365,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FM-14215,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+FM-14290,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FM-14380,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+FO-14305,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+FP-14320,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+FW-14395,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+GA-14515,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+GA-14725,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GB-14530,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.03,✅ Low churn risk – maintain engagement
+GB-14575,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+GD-14590,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GG-14650,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GH-14410,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GH-14425,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+GH-14485,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+GH-14665,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+GK-14620,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+GM-14440,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GM-14455,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GM-14500,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+GM-14680,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GM-14695,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+GP-14740,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+GR-14560,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+GT-14635,Low Value,💰 High potential – low frequency but high order value,0.03,✅ Low churn risk – maintain engagement
+GT-14710,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+GT-14755,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GW-14605,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+GZ-14470,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+GZ-14545,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HA-14905,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HA-14920,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HD-14785,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+HE-14800,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HF-14995,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HG-14845,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HG-14965,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HG-15025,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+HH-15010,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+HJ-14875,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HK-14890,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+HL-15040,At Risk,🚨 Immediate re-engagement – high churn risk,0.0,✅ Low churn risk – maintain engagement
+HM-14860,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+HM-14980,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.96,🚨 High churn risk – send personalized retention offer
+HP-14815,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HR-14770,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+HR-14830,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+HW-14935,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+HZ-14950,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+IG-15085,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+IL-15100,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+IM-15055,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+IM-15070,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+JA-15970,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JB-15400,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JB-15925,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JB-16000,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JB-16045,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JC-15340,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+JC-15385,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.04,✅ Low churn risk – maintain engagement
+JC-15775,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JC-16105,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JD-15790,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JD-15895,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+JD-16015,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.04,✅ Low churn risk – maintain engagement
+JD-16060,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JD-16150,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JE-15475,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+JE-15610,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JE-15715,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JE-15745,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JE-16165,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JF-15190,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JF-15295,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+JF-15355,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JF-15415,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JF-15490,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JF-15565,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JG-15115,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JG-15160,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JG-15310,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JG-15805,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+JH-15430,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+JH-15820,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.06,✅ Low churn risk – maintain engagement
+JH-15910,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JH-15985,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JH-16180,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JJ-15445,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+JJ-15760,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+JK-15205,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JK-15325,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JK-15370,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JK-15625,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JK-15640,Low Value,💰 High potential – low frequency but high order value,0.14,✅ Low churn risk – maintain engagement
+JK-15730,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JK-16090,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JK-16120,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JL-15130,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JL-15175,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+JL-15235,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JL-15505,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JL-15835,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JL-15850,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JM-15250,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JM-15265,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JM-15535,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JM-15580,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+JM-15655,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JM-15865,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JM-16195,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JO-15145,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JO-15280,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JO-15550,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+JP-15460,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JP-15520,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+JP-16135,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JR-15670,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JR-15700,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+JR-16210,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JS-15595,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JS-15685,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JS-15880,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JS-15940,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+JS-16030,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JW-15220,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+JW-15955,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+JW-16075,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+KA-16525,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KB-16240,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KB-16315,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+KB-16405,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+KB-16585,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+KB-16600,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KC-16255,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+KC-16540,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KC-16675,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KD-16270,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+KD-16345,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KD-16495,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+KD-16615,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+KE-16420,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KF-16285,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KH-16330,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KH-16360,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KH-16510,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KH-16630,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KH-16690,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KL-16555,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KL-16645,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KM-16225,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KM-16375,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+KM-16660,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+KM-16720,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KN-16390,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KN-16450,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KN-16705,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+KS-16300,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.97,🚨 High churn risk – send personalized retention offer
+KT-16465,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.93,🚨 High churn risk – send personalized retention offer
+KT-16480,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KW-16435,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+KW-16570,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+LA-16780,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+LB-16735,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+LB-16795,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+LC-16870,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LC-16885,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+LC-16930,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+LC-16960,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+LC-17050,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LC-17140,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LD-16855,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+LD-17005,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+LE-16810,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LF-17185,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LH-16750,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+LH-16900,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LH-17020,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.97,🚨 High churn risk – send personalized retention offer
+LH-17155,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+LL-16840,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+LM-17065,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+LO-17170,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LP-17080,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LP-17095,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LR-16915,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+LR-17035,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+LS-16945,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+LS-16975,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LS-17200,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+LS-17230,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+LS-17245,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LT-16765,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LT-17110,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LW-16825,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LW-16990,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+LW-17125,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+LW-17215,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MA-17560,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MA-17995,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.9,🚨 High churn risk – send personalized retention offer
+MB-17305,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MB-18085,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MC-17275,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MC-17425,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+MC-17575,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+MC-17590,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MC-17605,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MC-17635,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+MC-17845,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+MC-18100,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MC-18130,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+MD-17350,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MD-17860,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ME-17320,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ME-17725,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ME-18010,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MF-17665,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+MF-18250,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-17650,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-17680,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-17695,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+MG-17875,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-17890,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-18145,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MG-18205,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+MH-17290,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MH-17440,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+MH-17455,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MH-17620,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+MH-17785,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MH-18025,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MH-18115,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MJ-17740,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MK-17905,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MK-18160,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+ML-17395,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ML-17410,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ML-17755,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ML-18040,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+ML-18265,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+MM-17260,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MM-17920,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MM-18055,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MM-18280,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+MN-17935,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MO-17500,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+MO-17800,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MO-17950,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.41,⚠️ Medium churn risk – follow-up via email/ads
+MP-17470,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+MP-17965,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MP-18175,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MR-17545,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MS-17365,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+MS-17530,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+MS-17710,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+MS-17770,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MS-17830,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+MS-17980,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MT-17815,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MT-18070,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+MV-17485,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MV-18190,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MW-18220,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MW-18235,At Risk,🚨 Immediate re-engagement – high churn risk,0.01,✅ Low churn risk – maintain engagement
+MY-17380,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MY-18295,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+MZ-17335,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+MZ-17515,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+NB-18580,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+NB-18655,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NC-18340,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+NC-18415,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NC-18535,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NC-18625,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+ND-18370,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ND-18460,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.93,🚨 High churn risk – send personalized retention offer
+NF-18385,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NF-18475,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+NF-18595,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NG-18355,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NG-18430,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+NH-18610,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+NK-18490,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+NL-18310,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NM-18445,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NM-18520,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+NP-18325,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NP-18670,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NP-18685,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+NP-18700,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NR-18550,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+NS-18505,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+NS-18640,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+NW-18400,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+NZ-18565,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+ON-18715,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+OT-18730,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PA-19060,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PB-18805,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PB-19105,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PB-19150,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PB-19210,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+PC-18745,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PC-19000,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+PF-19120,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+PF-19165,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.95,🚨 High churn risk – send personalized retention offer
+PF-19225,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PG-18820,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+PG-18895,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PH-18790,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+PJ-18835,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PJ-19015,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PK-18910,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+PK-19075,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+PL-18925,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PM-18940,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+PM-19135,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PN-18775,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PO-18850,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+PO-18865,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PO-19180,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+PO-19195,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PP-18955,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+PR-18880,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PS-18760,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PS-18970,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PS-19045,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+PT-19090,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+PV-18985,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+PW-19030,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+PW-19240,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+QJ-19255,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+RA-19285,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RA-19885,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+RA-19915,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RA-19945,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RB-19330,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+RB-19360,At Risk,🚨 Immediate re-engagement – high churn risk,0.0,✅ Low churn risk – maintain engagement
+RB-19435,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RB-19465,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RB-19570,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+RB-19645,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+RB-19705,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RB-19795,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RC-19825,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RC-19960,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RD-19480,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RD-19585,Low Value,💰 High potential – low frequency but high order value,0.11,✅ Low churn risk – maintain engagement
+RD-19660,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RD-19720,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RD-19810,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RD-19900,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RD-19930,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+RE-19405,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RE-19450,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.95,🚨 High churn risk – send personalized retention offer
+RF-19345,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+RF-19735,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RF-19840,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RH-19495,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RH-19510,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+RH-19555,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RH-19600,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RK-19300,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RL-19615,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+RM-19375,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RM-19675,Low Value,💰 High potential – low frequency but high order value,0.04,✅ Low churn risk – maintain engagement
+RM-19750,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RO-19780,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+RP-19270,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+RP-19390,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RP-19855,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RR-19315,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+RR-19525,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+RS-19420,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+RS-19765,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RS-19870,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.07,✅ Low churn risk – maintain engagement
+RW-19540,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RW-19630,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+RW-19690,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SA-20830,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SB-20170,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+SB-20185,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+SB-20290,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SC-20020,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+SC-20050,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SC-20095,At Risk,🚨 Immediate re-engagement – high churn risk,0.99,🚨 High churn risk – send personalized retention offer
+SC-20230,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+SC-20260,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+SC-20305,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20380,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SC-20440,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20575,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20680,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20695,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SC-20725,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+SC-20770,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20800,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SC-20845,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SD-20485,Low Value,💰 High potential – low frequency but high order value,0.97,🚨 High churn risk – send personalized retention offer
+SE-20110,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SF-20065,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SF-20200,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SF-20965,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SG-20080,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SG-20470,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.87,🚨 High churn risk – send personalized retention offer
+SG-20605,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+SG-20890,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+SH-19975,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SH-20395,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SH-20635,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+SJ-20125,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SJ-20215,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SJ-20500,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+SK-19990,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+SL-20155,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SM-20005,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.97,🚨 High churn risk – send personalized retention offer
+SM-20320,At Risk,🚨 Immediate re-engagement – high churn risk,0.02,✅ Low churn risk – maintain engagement
+SM-20905,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+SM-20950,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+SN-20560,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SN-20710,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SO-20335,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SP-20545,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+SP-20620,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SP-20650,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.98,🚨 High churn risk – send personalized retention offer
+SP-20860,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SP-20920,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SR-20425,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SR-20740,Low Value,💰 High potential – low frequency but high order value,0.99,🚨 High churn risk – send personalized retention offer
+SS-20140,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SS-20410,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SS-20515,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+SS-20590,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+SS-20875,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+ST-20530,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+SU-20665,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+SV-20365,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+SV-20785,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+SV-20815,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SV-20935,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SW-20245,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SW-20275,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+SW-20350,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.02,✅ Low churn risk – maintain engagement
+SW-20455,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+SW-20755,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+SZ-20035,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+TA-21385,At Risk,🚨 Immediate re-engagement – high churn risk,0.04,✅ Low churn risk – maintain engagement
+TB-21055,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TB-21175,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TB-21190,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+TB-21250,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+TB-21280,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+TB-21355,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+TB-21400,Low Value,💰 High potential – low frequency but high order value,0.98,🚨 High churn risk – send personalized retention offer
+TB-21520,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TB-21595,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+TB-21625,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TC-20980,At Risk,🚨 Immediate re-engagement – high churn risk,0.97,🚨 High churn risk – send personalized retention offer
+TC-21145,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TC-21295,Low Value,💰 High potential – low frequency but high order value,0.01,✅ Low churn risk – maintain engagement
+TC-21475,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TC-21535,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TD-20995,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TG-21310,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+TG-21640,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TH-21100,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+TH-21115,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TH-21235,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TH-21550,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TM-21010,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TM-21490,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TN-21040,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TP-21130,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+TP-21415,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+TP-21565,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+TR-21325,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.95,🚨 High churn risk – send personalized retention offer
+TS-21085,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.98,🚨 High churn risk – send personalized retention offer
+TS-21160,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",0.99,🚨 High churn risk – send personalized retention offer
+TS-21205,Low Value,💰 High potential – low frequency but high order value,0.97,🚨 High churn risk – send personalized retention offer
+TS-21340,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+TS-21370,At Risk,🚨 Immediate re-engagement – high churn risk,0.0,✅ Low churn risk – maintain engagement
+TS-21430,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+TS-21505,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TS-21610,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+TS-21655,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+TT-21070,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+TT-21220,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.93,🚨 High churn risk – send personalized retention offer
+TT-21265,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+TT-21460,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+TW-21025,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+TZ-21580,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+VB-21745,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+VD-21670,Low Value,💰 High potential – low frequency but high order value,1.0,🚨 High churn risk – send personalized retention offer
+VF-21715,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+VG-21790,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+VG-21805,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.99,🚨 High churn risk – send personalized retention offer
+VM-21685,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+VM-21835,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+VP-21730,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.01,✅ Low churn risk – maintain engagement
+VP-21760,High Value,🎯 Target with loyalty rewards to maintain strong sales,0.0,✅ Low churn risk – maintain engagement
+VS-21820,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
+VT-21700,Medium Value,"⚡ Upsell/cross-sell opportunities – high frequency, moderate value",1.0,🚨 High churn risk – send personalized retention offer
+VW-21775,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+WB-21850,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+XP-21865,Low Value,💰 High potential – low frequency but high order value,0.02,✅ Low churn risk – maintain engagement
+YC-21895,Low Value,💰 High potential – low frequency but high order value,0.03,✅ Low churn risk – maintain engagement
+YS-21880,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ZC-21910,Low Value,💰 High potential – low frequency but high order value,0.0,✅ Low churn risk – maintain engagement
+ZD-21925,High Value,🎯 Target with loyalty rewards to maintain strong sales,1.0,🚨 High churn risk – send personalized retention offer
